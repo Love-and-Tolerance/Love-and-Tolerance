@@ -1,5 +1,0 @@
-Some fixes here - everything colored that was silver is now light_gray, which fixed wool, terracotta, glazed terracotta, probably some other things I don't remember.  Boats renamed.  Dark Oak used to be called Big Oak; names changed, now fixed.  Boats have custom textures but not custom inventory sprites.  Concrete powder and concrete need textures, along with a bunch of the newly added blocks; coral and villager workstations, chiefly.  Put in placeholder GUI files for all new inventories/crafting stations. Need to make a pass over animals, I think the ear bug is still there.
--Vivian
-
-Fixed mule and donkey ears
--Vivian

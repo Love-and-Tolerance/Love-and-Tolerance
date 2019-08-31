@@ -1,2 +1,0 @@
-MCPatcher stuff has all been moved to Optifine, apparently.  CTM looks a little rough for some of the logs, and I don't know if I like how glowstone is going, but they do work.
--Vivian
