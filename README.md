@@ -26,6 +26,5 @@ This resource pack is:
 ### Maintained by
 
  - Bronydogz (1.10)
- - SolisLink (1.11-1.12)
- - ZeldaLinkAaron (0-1.12)
+ - SolisLink/ZeldaLinkAaron (1.11-1.12)
  - Vivian (1.14+)
