@@ -1,0 +1,2 @@
+Removed many, many extraneous files that were out of date or identical to default.  If they need to be reinstated, they should be in the 'disabled' folder.  Fixed redstone (uvlock needed to be turned off for pretty much every entry), now displays fine on the sides of blocks.  I think I left alone the 3D blocks (doors, ladders, rails; couldn't figure out the WIP bed, so left it alone, it wasn't throwing any errors).  Most of the pack is just textures, and they'll automatically be applied if they're named correctly.
+-Vivian

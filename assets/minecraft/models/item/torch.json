@@ -1,0 +1,24 @@
+{
+    "parent": "block/torch",
+    "display": {
+	"thirdperson_lefthand": {
+	    "translation": [0,4,0]
+  	},
+	"ground":{
+	    "translation": [0,4,0]
+	},
+   	"thirdperson_righthand":{
+	    "translation": [0,4,0]
+	},
+	"firstperson_lefthand": {
+	    "translation": [0,5,0]
+	},
+	"firstperson_righthand": {
+	    "translation": [0,5,0]
+	},
+	"gui":{
+	    "rotation":[30,45,0],
+	    "translation": [0,2,0]
+	}
+    }
+}

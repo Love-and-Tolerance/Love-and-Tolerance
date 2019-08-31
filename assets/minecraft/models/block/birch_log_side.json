@@ -1,0 +1,7 @@
+{
+    "parent": "block/column_side",
+    "textures": {
+        "end": "block/birch_log_top",
+        "side": "block/birch_log"
+    }
+}

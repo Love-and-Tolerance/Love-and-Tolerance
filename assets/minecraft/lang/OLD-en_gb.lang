@@ -1,0 +1,122 @@
+
+language.name=English (UK)
+language.region=GB
+language.code=en_GB
+
+menu.singleplayer=Singlepony
+menu.multiplayer=Multipony
+
+selectWorld.deleteQuestion=Do you Pinkie promise you want to delete this world?
+selectWorld.deleteWarning=will be lost foreeeeeeeever!
+
+selectWorld.hardcoreMode.info=World will be deleted upon death... FOREVER!!
+
+selectServer.deleteQuestion=Do you Pinkie promise you want to remove this server?
+selectServer.deleteWarning=will be lost foreeeeeeeever! (A long time!)
+
+multiplayer.title=Play with Many Ponies
+
+multiplayer.texturePrompt.line2=Would you like to download and install it using advanced unicorn magic?
+
+chat.link.confirm=Do you Pinkie promise you want to open the following website?
+chat.link.warning=Never open links from ponies that you don't trust!
+
+connect.connecting=Opening portal to Equestria...
+connect.authorizing=Becoming a pony...
+connect.failed=Failed to enter Equestria
+
+disconnect.kicked=was kicked to the MOOOOOOOOOOOON!
+
+options.languageWarning=Language translations may not be 20% cooler
+
+options.gamma.min=Pinkamena
+options.gamma.max=Pinkie Pie
+
+options.sensitivity.min=Tank
+options.sensitivity.max=Rainbow Dash
+
+key.playerlist=List Ponies
+
+tile.fire.name=Fire of Friendship
+
+item.cookie.name=Muffin
+item.bow.name=Magic Bow
+item.helmetCloth.name=CMC Helmet
+item.chestplateCloth.name=CMC Cape
+item.leggingsCloth.name=CMC Leggings
+item.bootsCloth.name=CMC Boots
+item.helmetChain.name=Gummy Mask
+item.chestplateChain.name=Gummy Costume
+item.leggingsChain.name=Gummy Legs
+item.bootsChain.name=Gummy Feet
+item.helmetDiamond.name=Luna's Tiara
+item.chestplateDiamond.name=Luna's Chestplate
+item.leggingsDiamond.name=Luna's Leggings
+item.bootsDiamond.name=Luna's Slippers
+item.helmetGold.name=Royal Guard Helmet
+item.chestplateGold.name=Royal Guard Chestplate
+item.leggingsGold.name=Royal Guard Leg Armour
+item.bootsGold.name=Royal Guard Boots
+item.slimeball.name=Slimy Smoozeball
+item.fishRaw.name=Raw Fish
+item.goldNugget.name=Golden Bit
+item.eyeOfEnder.name=Elements of Harmony
+item.expBottle.name=Experience Cider
+item.netherStar.name=Crystal Nether Heart
+entity.MushroomCow.name=Screwball
+entity.Villager.name=Pony
+entity.VillagerGolem.name=Iron Will
+entity.EnderDragon.name=Nightmare Moon
+entity.WitherBoss.name=Wither Sombra
+entity.Witch.name=A Trixie Witch
+item.potion.name=Cider
+item.record.13.desc=FelixMoog - Love Bloom
+item.record.cat.desc=FelixMoog - Building Buddies
+item.record.blocks.desc=ph00tbag - Let Her In
+item.record.chirp.desc=eXtaticus - This Is Our Big Night
+item.record.far.desc=ph00tbag - Down To Earth
+item.record.mall.desc=Kurashin - A True True Friend
+item.record.mellohi.desc=eXtaticus - Hide Away (Healing Remix)
+item.record.stal.desc=eXtaticus - Sunlight Remix
+item.record.strad.desc=FelixMoog - It’s Nighttime
+item.record.ward.desc=eXtaticus - Apples to the Core
+item.record.11.desc=ShadyVox & JanAnimations - Don’t Mine at Night
+item.record.wait.desc=FelixMoog - Discord
+
+entity.Chicken.name=Scootachicken
+entity.Squid.name=Derpy Squid
+entity.Slime.name=Smooze
+
+potion.moveSpeed.postfix=Cider of Swiftness
+potion.moveSlowdown.postfix=Cider Cider of Slowness
+potion.digSpeed.postfix=Cider of Haste
+potion.digSlowDown.postfix=Cider of Dullness
+potion.damageBoost.postfix=Cider of Strength
+potion.weakness.postfix=Cider of Weakness
+potion.heal.postfix=Cider of Healing
+potion.harm.postfix=Cider of Harming
+potion.jump.postfix=Cider of Leaping
+potion.confusion.postfix=Cider of Nausea
+potion.regeneration.postfix=Cider of Regeneration
+potion.resistance.postfix=Cider of Resistance
+potion.fireResistance.postfix=Cider of Fire Resistance
+potion.waterBreathing.postfix=Cider of Water Breathing
+potion.invisibility.postfix=Cider of Invisibility
+potion.blindness.postfix=Cider of Blindness
+potion.nightVision.postfix=Cider of Night Vision
+potion.hunger.postfix=Cider of Hunger
+potion.poison.postfix=Cider of Poison
+potion.wither.postfix=Cider of Decay
+potion.healthBoost.postfix=Cider of Health Boost
+potion.absorption.postfix=Cider of Absorption
+
+stat.joinMultiplayer=Multipony joins
+
+stat.playerKills=Ponies Killed
+
+achievement.diamonds=DIAMONDS!
+achievement.diamonds.desc=Acquire diamonds! Rarity is impressed.
+achievement.bookcase=Twilight's Apprentice
+achievement.bookcase.desc=Build some bookshelves to improve your enchantment table
+achievement.theEnd2=The End.
+achievement.theEnd2.desc=Your quest is complete, and you may return to your studies in Canterlot!

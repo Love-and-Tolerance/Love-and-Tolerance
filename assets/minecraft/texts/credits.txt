@@ -1,0 +1,81 @@
+[C]§f===============
+[C]§eMinecraft Credits
+[C]§f===============
+
+§7Created by:
+§f			Markus Persson
+
+§7Game design, programming and graphics:
+§f			Markus Persson
+§f			Jens Bergensten
+§f			Nathan Adams
+
+§7Programming:
+§f			Erik Broes
+
+§7Music and sound:
+§f			Daniel Rosenfeld
+
+§7Ingame artwork and paintings:
+§f			Kristoffer Zetterstrand
+
+§7End game narrative:
+§f			Julian Gough
+
+§7Website development:
+§f			Tobias Möllstam
+§f			Daniel Frisk
+§f			Leonard Axelsson
+§f			Jens Bergensten
+§f			Markus Persson
+
+§7Logo and promotional artwork:
+§f			Markus Toivonen
+
+§7Business and administration:
+§f			Carl Manneh
+§f			Daniel Kaplan
+
+§7Director of fun:
+§f			Lydia Winters
+
+§7Number crunching and statistics:
+§f			Patrick Geuder
+
+§7Additional programming:
+§f			Paul Spooner
+§f			Ryan 'Scaevolus' Hitchman
+§f			Elliot 'Hippoplatimus' Segal
+
+§7Developers of Mo' Creatures (horses etc):
+§f			John Olarte (DrZhark)
+§f			Kent Christian Jensen
+§f			Dan Roque
+
+§7Technologies used:
+§f			Java by Oracle
+§f			LWJGL by many talented people
+§f			"3d Sound System" by Paul Lamb
+§f			JOrbis by JCraft
+
+§7Love & Tolerance texture pack:
+§7			Created by§f Arekuzu
+§7			Kept up to date by§f Hazzat & Hawkseye21
+§7			With help from:
+§f			Outa
+§f			HeadPikachu
+§f			lphemphill
+§f			CalistoVolan
+§f			MehStrongBadMeh
+§f			PandaTork
+§f			ZeldaLinkAaron
+§f			and the VoxelModPack Team
+
+
+
+
+
+
+
+
+§f"Friendship isn't easy, but there's no doubt it's worth fighting for." §7- Twilight Sparkle

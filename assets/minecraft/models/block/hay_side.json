@@ -1,0 +1,7 @@
+{
+    "parent": "block/column_side",
+    "textures": {
+        "end": "block/hay_block_top",
+        "side": "block/hay_block_side"
+    }
+}
