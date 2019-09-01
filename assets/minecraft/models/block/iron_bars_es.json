@@ -1,0 +1,47 @@
+{
+"__comment":"Made by Know2Good, part of the 'Default 3D' resource pack || Official download page: http://www.planetminecraft.com/texture_pack/default-3d-2985741/ || © Know2Good. All rights reserved. ",
+"__comment":"OK",
+
+"textures": {
+	"block": "block/iron_bars",
+	"particle":"block/iron_bars"
+},
+"elements":[
+	{
+		"__comment":"South",
+		"from":[7,0,12],
+		"to":[9,16,14],
+		"faces": {
+			"down":{"uv":	[12.01,14.01,13.99,15.99],"texture":"#block","cullface":"down"},
+			"up":{"uv":		[12.01,0.01,13.99,1.99],"texture":"#block","cullface":"up"},
+			"north":{"uv":	[12.01,0.01,13.99,15.99],"texture":"#block","cullface":"Know2Good"},
+			"south":{"uv":	[12.01,0.01,13.99,15.99],"texture":"#block","cullface":"Know2Good"},
+			"west":{"uv":	[13.99,0.01,12.01,15.99],"texture":"#block","cullface":"Know2Good"},
+			"east":{"uv":	[13.99,0.01,12.01,15.99],"texture":"#block","cullface":"Know2Good"}
+		}
+	},
+	{
+		"__comment":"South-center",
+		"from":[7.5,2,9],
+		"to":[8.5,4,12],
+		"faces": {
+			"down":{"uv":	[9.01,13.01,11.99,13.99],"texture":"#block","cullface":"down","rotation":270},
+			"up":{"uv":		[9.01,12.01,11.99,12.99],"texture":"#block","cullface":"up","rotation":90},
+			"west":{"uv":	[9.01,12.01,11.99,13.99],"texture":"#block","cullface":"Know2Good"},
+			"east":{"uv":	[11.99,12.01,9.01,13.99],"texture":"#block","cullface":"Know2Good"}
+		}
+	},
+	{
+		"__comment":"South-front",
+		"from":[7.5,7,14],
+		"to":[8.5,9,16],
+		"faces": {
+			"down":{"uv":	[14.01,8.01,15.99,8.99],"texture":"#block","cullface":"down","rotation":270},
+			"up":{"uv":		[14.01,7.01,15.99,7.99],"texture":"#block","cullface":"up","rotation":90},
+			"south":{"uv":	[15.01,7.01,15.99,8.99],"texture":"#block","cullface":"Know2Good"},
+			"west":{"uv":	[14.01,7.01,15.99,8.99],"texture":"#block","cullface":"Know2Good"},
+			"east":{"uv":	[15.99,7.01,14.01,8.99],"texture":"#block","cullface":"Know2Good"}
+            }
+        }
+    ]
+}
