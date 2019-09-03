@@ -28,3 +28,5 @@ This resource pack is:
  - Bronydogz (1.10)
  - SolisLink/ZeldaLinkAaron (1.11-1.14+)
  - Vivian (1.13-1.14+)
+ - Sollace (1.14+)
+ - Velvet Remedy (1.14+)
