@@ -1,0 +1,20 @@
+{
+    "multipart": [
+        {   "apply": { "model": "block/iron_bars_post" }},
+        {   "when": { "north": false, "east": false, "south": false, "west": false },
+            "apply": { "model": "block/iron_bars_post" }
+        },
+        {   "when": { "north": true },
+            "apply": { "model": "block/iron_bars_nw" }
+        },
+        {   "when": { "east": true },
+            "apply": { "model": "block/iron_bars_es", "y": 270 }
+        },
+        {   "when": { "south": true },
+            "apply": { "model": "block/iron_bars_es" }
+        },
+        {   "when": { "west": true },
+            "apply": { "model": "block/iron_bars_nw", "y": 270 }
+        }
+    ]
+}
