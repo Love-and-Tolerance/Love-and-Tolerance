@@ -1,0 +1,30 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "dirt" },
+			{ "model": "dirt2" },
+			{ "model": "dirt3" },
+			{ "model": "dirt4" },
+			{ "model": "dirt5" },
+			{ "model": "dirt5" },
+            { "model": "dirt", "y": 90 },
+			{ "model": "dirt2", "y": 90 },
+			{ "model": "dirt3", "y": 90 },
+			{ "model": "dirt4", "y": 90 },
+			{ "model": "dirt5", "y": 90 },
+			{ "model": "dirt6", "y": 90 },
+            { "model": "dirt", "y": 180 },
+			{ "model": "dirt2", "y": 180 },
+			{ "model": "dirt3", "y": 180 },
+			{ "model": "dirt4", "y": 180 },
+			{ "model": "dirt5", "y": 180 },
+			{ "model": "dirt6", "y": 180 },
+            { "model": "dirt", "y": 270 },
+			{ "model": "dirt2", "y": 270 },
+			{ "model": "dirt3", "y": 270 },
+			{ "model": "dirt4", "y": 270 },
+			{ "model": "dirt5", "y": 180 },
+			{ "model": "dirt6", "y": 180 }
+        ]
+    }
+}

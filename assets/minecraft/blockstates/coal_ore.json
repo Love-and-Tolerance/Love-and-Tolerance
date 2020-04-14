@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": [ { "model": "block/coal_ore" }, { "model": "block/coal_ore_2" }, { "model": "block/coal_ore_3" }, { "model": "block/coal_ore_4" }, { "model": "block/coal_ore_5" }, { "model": "block/coal_ore_6" } ]
+    }
+}
