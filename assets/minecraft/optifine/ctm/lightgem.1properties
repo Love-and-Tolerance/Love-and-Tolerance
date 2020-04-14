@@ -1,6 +1,0 @@
-# Converted from /ctm/terrain105.properties and /ctm/lights.png
-# Individual tiles are in /ctm/lights
-#Wed Apr 10 00:59:34 CEST 2013
-tiles=128-139 144-155 160-171 176-187
-matchTiles=lightgem
-method=ctm
