@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/s2mO3w5.png" alt="L&T"></img>
 
 ![Downloads](https://img.shields.io/github/downloads/MineLittlePony/Love-and-Tolerance/total.svg?color=yellowgreen)
-[![Discord Server](https://img.shields.io/discord/182490536119107584.svg?color=blueviolet)](https://discord.gg/HbJSFyu)
+[![Discord Server](https://img.shields.io/discord/182490536119107584.svg?color=blueviolet)](https://discord.gg/fxNMGvm)
 
 This is a Minecraft resource pack inspired by the visual art style and design of the show _My Little Pony: Friendship is Magic_. Bright colours and (moderate) pony references abound!
 
