@@ -30,3 +30,4 @@ This resource pack is:
  - Velvet Remedy (1.12+)
  - Vivian (1.13-1.14+)
  - Sollace (1.14+)
+ - PCelestia (1.15+)
