@@ -1,5 +1,5 @@
 {
-    "parent": "block/soul_fire_torch",
+    "parent": "block/soul_torch",
     "display": {
 	"thirdperson_lefthand": {
 	    "translation": [0,4,0]
