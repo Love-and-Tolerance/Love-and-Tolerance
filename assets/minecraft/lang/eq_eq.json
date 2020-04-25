@@ -52,6 +52,30 @@
   "item.minecraft.slime_spawn_egg": "Smooze Spawn Egg",
   "item.minecraft.phantom_spawn_egg": "Windigo Spawn Egg",
 
+  "item.minecraft.leather_helmet": "CMC Helmet",
+  "item.minecraft.leather_chestplate": "CMC Cape",
+  "item.minecraft.leather_leggings": "CMC Knee pads",
+  "item.minecraft.leather_boots": "CMC Boots",
+  
+  "item.minecraft.chainmail_helmet": "Gummy Helmet",
+  "item.minecraft.chainmail_chestplate": "Gummy Chestplate",
+  "item.minecraft.chainmail_leggings": "Gummy Leggings",
+  "item.minecraft.chainmail_boots": "Gummy Boots",
+ 
+  
+  "item.minecraft.diamond_helmet": "Luna's Helmet",
+  "item.minecraft.diamond_chestplate": "Luna's Chestplate",
+  "item.minecraft.diamond_leggings": "Luna's Leggings",
+  "item.minecraft.diamond_boots": "Luna's Boots",
+  
+  "item.minecraft.golden_helmet": "Royal Guard Helmet",
+  "item.minecraft.golden_chestplate": "Royal Guard Chestplate",
+  "item.minecraft.golden_leggings": "Royal Guard Leggings",
+  "item.minecraft.golden_boots": "Royal Guard Boots",
+  
+  "item.minecraft.elytra": "Changeling Wings",
+  "item.minecraft.trident": "Fork of Friendship",
+
   "item.minecraft.potion": "Cider",
   "item.minecraft.splash_potion": "Bubbling Cider",
   "item.minecraft.lingering_potion": "Fizzing Cider",
