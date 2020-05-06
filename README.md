@@ -7,18 +7,18 @@
 
 This is a Minecraft resource pack inspired by the visual art style and design of the show _My Little Pony: Friendship is Magic_. Bright colours and (moderate) pony references abound!
 
-## Iinstalation
+## installation
 
-1 - Download the Love-andTolerance-master.zip from the greeen button above.
-2 - Open Minecraft and navigate to the Resouece Pack selection setting and click open resource pack folder.
-3 - Extract the zip file you downloaded earlier, go into it and copy the Love and Tolerance master folder inside of it to your resource pack folder.
-4 - Go back into Minecraft and click the arrow to move Love and Tolerance to the active side.
+ - Download the Love-and-Tolerance-master.zip from the green button above.
+ - Open Minecraft and navigate to the Resource Pack selection setting and click open resource pack folder.
+ - Extract the zip file you downloaded earlier, go into it and copy the Love and Tolerance master folder inside of it to your resource pack folder.
+ - Go back into Minecraft and click the arrow to move Love and Tolerance to the active side.
 
 This resource pack is:
 
  - Brightly coloured, rainbow hued
  - Filled with pony pictures as paintings
- - Probably he best way to explore Equestria.
+ - The best way to explore Equestria.
  - Compatible with Optifine and CTM textures
  - Used on the famous "Brohoof" minecraft servers
 
