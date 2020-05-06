@@ -20,7 +20,7 @@ This resource pack is:
  - Filled with pony pictures as paintings
  - The best way to explore Equestria.
  - Compatible with Optifine and CTM textures
- - Used on the famous "Brohoof" minecraft servers
+ - Used on the famous Brohoof Minecraft server
 
 ## Credits
 
