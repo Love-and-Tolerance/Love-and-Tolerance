@@ -53,6 +53,8 @@ This resource pack is:
 
 This resource pack has come a long way and has been touched by many different people, I would like to make sure that each and every one of these people is credited. If you have worked on this pack and do not see your name on the list please <a href="mailto:velvetremedy@love-tolerance.com">contact me</a> to get you added.
 
+So, without further ado, I would like to thank:
+
  - <b>Arekuzu</b> for creating the texture pack.
  - <b>Hazzat</b> for general updates to 1.7.4.
  - <b>Hawkseye21</b> for fancy MCPatcher features and general updates to 1.7.4.
