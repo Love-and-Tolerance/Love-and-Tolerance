@@ -1,14 +1,13 @@
 {
-  "pack": {
-    "pack_format": 5
-	,
-    "description": "MLP: FiM-inspired!\nBy Hazzat & Hawk"
-  },
-  "language": {
-    "eq_eq": {
-      "name": "Modern Equish",
-      "region": "Equestria",
-      "bidirectional": false
-    }
-  }
+   "pack": {
+      "pack_format": 5,
+      "description": "MLP: FiM-inspired!\nBy Hazzat & Hawk"
+   },
+   "language": {
+      "eq_eq": {
+         "name": "Modern Equish",
+         "region": "Equestria",
+         "bidirectional": false
+      }
+   }
 }
