@@ -1,5 +1,5 @@
 {
-   "language.name": "Equish",
+   "language.name": "Modern Equish",
    "language.region": "Equestria",
    "language.code": "eq_eq",
 
@@ -30,18 +30,12 @@
    "item.minecraft.rabbit_stew": "Bunny Stew",
    "item.minecraft.rabbit_foot": "Angel Bunny's Foot",
    "item.minecraft.rabbit_hide": "Angel Bunny's Hide",
-   "item.minecraft.gold_nugget": "Gold Bit",
    "item.minecraft.iron_nugget": "Silver Bit",
    "item.minecraft.phantom_membrane": "Windigo Soul",
-   "item.minecraft.chicken_spawn_egg": "Scootaloo Spawn Egg",
    "item.minecraft.rabbit_spawn_egg": "Angel Bunny Spawn Egg",
-   "item.minecraft.elder_guardian_spawn_egg": "Elder Seapony Spawn Egg",
-   "item.minecraft.guardian_spawn_egg": "Seapony Spawn Egg",
-   "item.minecraft.enderman_spawn_egg": "Enderstallion Spawn Egg",
    "item.minecraft.zombie_spawn_egg": "Zompony Spawn Egg",
    "item.minecraft.zombie_pigman_spawn_egg": "Zompig Spawn Egg",
    "item.minecraft.zombie_villager_spawn_egg": "Zompony Villager Spawn Egg",
-   "item.minecraft.skeleton_spawn_egg": "Skelepone Spawn Egg",
    "item.minecraft.skeleton_horse_spawn_egg": "Skelepone Horse Spawn Egg",
    "item.minecraft.wither_skeleton_spawn_egg": "Discorded Skelepone Spawn Egg",
    "item.minecraft.witch_spawn_egg": "Zecora Spawn Egg",
@@ -50,7 +44,6 @@
    "item.minecraft.slime_ball": "Ball of Smooze",
    "item.minecraft.zombie_head": "Zompony Head",
    "item.minecraft.slime_spawn_egg": "Smooze Spawn Egg",
-   "item.minecraft.phantom_spawn_egg": "Windigo Spawn Egg",
 
    "item.minecraft.leather_helmet": "CMC Helmet",
    "item.minecraft.leather_chestplate": "CMC Cape",
@@ -75,10 +68,6 @@
 
    "item.minecraft.elytra": "Changeling Wings",
    "item.minecraft.trident": "Fork of Friendship",
-
-   "item.minecraft.potion": "Cider",
-   "item.minecraft.splash_potion": "Bubbling Cider",
-   "item.minecraft.lingering_potion": "Fizzing Cider",
 
    "item.minecraft.potion.effect.empty": "Uncraftable Cider",
    "item.minecraft.potion.effect.mundane": "Mundane Cider",
@@ -156,7 +145,6 @@
    "block.minecraft.zombie_head": "Zompony Head",
    "block.minecraft.zombie_wall_head": "Zompony Wall Head",
    "block.minecraft.skeleton_wall_skull": "Skelepone Wall Skull",
-   "block.minecraft.skeleton_skull": "Skelepone Skull",
    "block.minecraft.wither_skeleton_wall_skull": "Discorded Skelepone Wall Skull",
    "block.minecraft.wither_skeleton_skull": "Discorded Skelepone Skull",
    "block.minecraft.wither_rose": "Poison Joke",
@@ -192,16 +180,11 @@
 
    "effect.minecraft.wither": "Discorded",
 
-   "selectWorld.deleteWarning": "'%s' will be lost foreeeeeveeeerrrr! (A long time!)",
    "disconnect.kicked": "Can spend their time playing ON THE MOOOOOOOOOOOON!",
 
    "connect.connecting": "Opening portal...",
    "connect.authorizing": "Talking to the Princess...",
    "connect.failed": "Sorry, you're not friendship enough",
-
-   "options.gamma.min": "SpOoOoky",
-   "options.gamma.max": "Cheerful",
-   "options.sensitivity.max": "20% Faster",
 
    "chat.link.confirm": "Do you Pinkie promise you want to open the following website?",
    "chat.link.warning": "Never open links from ponies that you don't trust!",
@@ -296,7 +279,6 @@
    "advancements.nether.get_wither_skull.title": "Spooky Scary Skeleponies",
    "advancements.nether.get_wither_skull.description": "Obtain a Discorded Skelepone's skull",
    "advancements.adventure.sniper_duel.description": "Kill a Skelepone from at least 50 meters away",
-   "advancements.story.enchant_item.title": "Celestia's Faithful Student",
    "advancements.nether.obtain_blaze_rod.title": "Take that, Larson!",
    "advancements.nether.obtain_blaze_rod.description": "Relieve a Princess of her cane",
 
@@ -348,5 +330,83 @@
    "clear.failed.multiple": "No items were found on %s ponies",
 
    "death.attack.wither": "%1$s devolved into chaos",
-   "death.attack.wither.player": "%1$s devolved into chaos whilst fighting %2$s"
+   "death.attack.wither.player": "%1$s devolved into chaos whilst fighting %2$s",
+   
+   "selectWorld.deleteWarning": "\"%s\" will be lost foreeeeeveeeerrrr! (A long time!)",
+
+   "spectatorMenu.teleport": "Teleport to Pony",
+   "spectatorMenu.teleport.prompt": "Select a pony to teleport to",
+
+   "selectWorld.gameMode.creative.line1": "Unlimited resources, pegasus flight and",
+
+   "selectServer.deleteWarning": "\"%s\" will be lost foreeeeeveeeerrrr! (A long time!)",
+
+   "lanServer.otherPlayers": "Settings for Other Ponies",
+   "multiplayer.title": "Play Multipony",
+   "multiplayer.disconnect.flying": "Flying magic is not enabled on this server",
+
+   "options.gamma.min": "SpOoOoky",
+   "options.gamma.max": "Cheerful",
+   "options.sensitivity.min": "Is she even moving?",
+   "options.sensitivity.max": "20% Faster",
+   "options.multiplayer.title": "Multipony Settings...",
+   "options.mainHand": "Main Hoof",
+   
+   "soundCategory.player": "Ponies",
+
+   "key.sprint": "Gallop",
+   "key.forward": "Trot Forwards",
+   "key.back": "Trot Backwards",
+   "key.inventory": "Open/Close Saddlebags",
+   "key.swapHands": "Swap Item In Hooves",
+   "key.categories.multiplayer": "Multipony",
+
+
+
+
+
+
+
+
+
+
+
+
+   "block.minecraft.nether_brick_slab": "Tartarus Brick Slab",
+   "block.minecraft.torch": "Candle",
+   "block.minecraft.wall_torch": "Wall Candle",
+   "block.minecraft.netherrack": "Tartarrack",
+   "block.minecraft.nether_portal": "Tartarus Portal",
+   "block.minecraft.bed.not_safe": "You may not rest now; there are ghosties nearby",
+   "block.minecraft.nether_bricks": "Tartarus Bricks",
+   "block.minecraft.nether_brick_fence": "Tartarus Brick Fence",
+   "block.minecraft.nether_brick_stairs": "Tartarus Brick Stairs",
+   "block.minecraft.nether_wart": "Tartarus Wart",
+   "block.minecraft.nether_quartz_ore": "Tartarus Quartz Ore",
+   "block.minecraft.nether_wart_block": "Tartarus Wart Block",
+   "block.minecraft.red_nether_bricks": "Red Tartarus Bricks",
+   "block.minecraft.potted_wither_rose": "Potted Poison Joke",
+   "block.minecraft.skeleton_skull": "Skelepone Skull",
+
+   "block.minecraft.red_nether_brick_stairs": "Red Tartarus Brick Stairs",
+   "block.minecraft.red_nether_brick_slab": "Red Tartarus Brick Slab",
+   "block.minecraft.nether_brick_wall": "Tartarus Brick Wall",
+   "block.minecraft.red_nether_brick_wall": "Red Tartarus Brick Wall",
+
+   "item.minecraft.golden_apple": "Zap Apple",
+   "item.minecraft.enchanted_golden_apple": "Enchanted Zap Apple",
+   "item.minecraft.nether_wart": "Tartarus Wart",
+   "item.minecraft.potion": "Cider",
+   
+   "item.minecraft.splash_potion": "Bubbling Cider",
+   "item.minecraft.lingering_potion": "Fizzing Cider",
+   "item.minecraft.gold_nugget": "Gold Bit",
+   "item.minecraft.cave_spider_spawn_egg": "Star Spider Spawn Egg",
+   "item.minecraft.chicken_spawn_egg": "Scootaloo Spawn Egg",
+   "item.minecraft.elder_guardian_spawn_egg": "Elder Seapony Spawn Egg",
+   "item.minecraft.enderman_spawn_egg": "Enderstallion Spawn Egg",
+   "item.minecraft.guardian_spawn_egg": "Seapony Spawn Egg",
+   "item.minecraft.horse_spawn_egg": "Bigger Pony Spawn Egg",
+   "item.minecraft.phantom_spawn_egg": "Windigo Spawn Egg",
+   "item.minecraft.skeleton_spawn_egg": "Skelepone Spawn Egg"
 }

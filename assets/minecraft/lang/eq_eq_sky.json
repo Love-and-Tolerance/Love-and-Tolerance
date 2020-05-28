@@ -10,15 +10,6 @@
    "menu.multiplayer": "Multipony",
    "menu.online": "Equestria Online",
 
-   "key.playerlist": "List Ponies",
-   "key.spectatorOutlines": "Highlight Ponies (Spectators)",
-
-   "merchant.level.1": "Novice",
-   "merchant.level.2": "Faithful Student",
-   "merchant.level.3": "Journeypone",
-   "merchant.level.4": "Friendship Expert",
-   "merchant.level.5": "Old Mage",
-   
    "selectWorld.deleteWarning": "'%s' will be lost foreeeeeveeeerrrr! (A long time!)",
 
    "spectatorMenu.teleport": "Teleport to Pony",
@@ -55,8 +46,14 @@
    "key.back": "Trot Backwards",
    "key.inventory": "Open/Close Saddlebags",
    "key.swapHands": "Swap Item In Hooves",
+   "key.playerlist": "List Ponies",
+   "key.spectatorOutlines": "Highlight Ponies (Spectators)",
    "key.categories.multiplayer": "Multipony",
 
+   "merchant.level.2": "Faithful Student",
+   "merchant.level.3": "Journeypone",
+   "merchant.level.4": "Friendship Expert",
+   "merchant.level.5": "Old Mage",
 
    "block.minecraft.wither_rose": "Poison Joke",
    "block.minecraft.nether_brick_slab": "Tartarus Brick Slab",
