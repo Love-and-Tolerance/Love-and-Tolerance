@@ -1,18 +1,18 @@
 # Love & Tolerance
 
-<img src="https://love-tolerance.com/resources/img/preview.png" alt="L&T"></img>
+![L&T](https://love-tolerance.com/resources/img/preview.png)
 
-![Downloads](https://img.shields.io/github/downloads/Love-and-Tolerance/Love-and-Tolerance/total.svg?color=blue)
-[![Discord Server](https://img.shields.io/discord/621069869244350468.svg?color=blueviolet)](https://discord.gg/fxNMGvm)
+[![Downloads](https://img.shields.io/github/downloads/Love-and-Tolerance/Love-and-Tolerance/total.svg?color=blue)](https://github.com/Love-and-Tolerance/Love-and-Tolerance/releases/latest) [![Discord Server](https://img.shields.io/discord/621069869244350468.svg?color=blueviolet)](https://discord.gg/fxNMGvm)
 
 This is a Minecraft resource pack inspired by the visual art style and design of the show _My Little Pony: Friendship is Magic_. Bright colours and (moderate) pony references abound!
 
 ## Installation
 
- - Download the Love-and-Tolerance-master.zip from the green button above.
- - Open Minecraft and navigate to the Resource Pack selection setting and click open resource pack folder.
- - Extract the zip file you downloaded earlier, go into it and copy the Love and Tolerance master folder inside of it to your resource pack folder.
- - Go back into Minecraft and click the arrow to move Love and Tolerance to the active side.
+ - Download the Love-and-Tolerance.zip from the [releases page](https://github.com/Love-and-Tolerance/Love-and-Tolerance/releases/latest). Don't use the source code options!
+ - Open Minecraft and navigate to the Resource Pack selection setting and click "open resource pack folder".
+ - Copy/paste the downloaded zip file into your resource pack folder.
+ - Go back into Minecraft, click out of then back into the resource pack selection setting (to refresh it).
+ - Click the arrow to move Love and Tolerance to the active side.
 
 ## Features
 
@@ -26,12 +26,12 @@ This resource pack is:
 
 ## Links
 
- - <a href="https://love-tolerance.com">Website</a>
- - <a href="https://love-tolerance.com/discord">Discord</a>
- - <a href="https://love-tolerance.com/archive">Archive</a>
- - <a href="https://love-tolerance.com/github">GitHub</a>
- - <a href="https://love-tolerance.com/issues">Issues</a>
- - <a href="https://love-tolerance.com/download">Download</a>
+ - [Website](https://love-tolerance.com)
+ - [Discord](https://love-tolerance.com/discord)
+ - [Archive](https://love-tolerance.com/archive)
+ - [GitHub](https://love-tolerance.com/github)
+ - [Issues](https://love-tolerance.com/issues)
+ - [Download](https://love-tolerance.com/download)
 
 ## Credits
 
@@ -51,24 +51,24 @@ This resource pack is:
 
 ## Special Thanks
 
-This resource pack has come a long way and has been touched by many different people, I would like to make sure that each and every one of these people is credited. If you have worked on this pack and do not see your name on the list please <a href="mailto:velvetremedy@love-tolerance.com">contact me</a> to get you added.
+This resource pack has come a long way and has been touched by many different people, I would like to make sure that each and every one of these people is credited. If you have worked on this pack and do not see your name on the list please [contact me](mailto:velvetremedy@love-tolerance.com) to get you added.
 
 So, without further ado, I would like to thank:
 
- - <b>Arekuzu</b> for creating the texture pack.
- - <b>Hazzat</b> for general updates to 1.7.4.
- - <b>Hawkseye21</b> for fancy MCPatcher features and general updates to 1.7.4.
- - <b>Outa</b> for making the hunger bar.
- - <b>HeadPikachu</b> for the liquids and various mobs.
- - <b>Lphemphill</b> for villager voices.
- - <b>MehStrongBadMeh</b> for recruiting more people to help.
- - <b>PandaTork</b> for the main screen logo.
- - <b>Bronydog</b> for variant texture template and general updates from 1.10 onward.
- - <b>SolisLink</b> for general texture and model updates from 1.11 onward.
- - <b>Velvet Remedy</b> for general texture and model updates from 1.12 onward.
- - <b>Vivian</b> for general maintenance and ctm fixes from 1.13 onward.
- - <b>Sollace</b> for managing our GitHub and file cleanup from 1.15 onward.
- - <b>PCelestia</b> for GitHub management and help with Add-ons from 1.15 onward.
- - <b>SkyArrow</b> for developing our website.
- - <b>Thunder Kick</b> for UI textures and addon help.
- - <b>Vayandas</b> for redesigning the moon.
+ - **Arekuzu** for creating the texture pack.
+ - **Hazzat** for general updates to 1.7.4.
+ - **Hawkseye21** for fancy MCPatcher features and general updates to 1.7.4.
+ - **Outa** for making the hunger bar.
+ - **HeadPikachu** for the liquids and various mobs.
+ - **Lphemphill** for villager voices.
+ - **MehStrongBadMeh** for recruiting more people to help.
+ - **PandaTork** for the main screen logo.
+ - **Bronydog** for variant texture template and general updates from 1.10 onward.
+ - **SolisLink** for general texture and model updates from 1.11 onward.
+ - **Velvet Remedy** for general texture and model updates from 1.12 onward.
+ - **Vivian** for general maintenance and ctm fixes from 1.13 onward.
+ - **Sollace** for managing our GitHub and file cleanup from 1.15 onward.
+ - **PCelestia** for GitHub management and help with Add-ons from 1.15 onward.
+ - **SkyArrow** for developing our website.
+ - **Thunder Kick** for UI textures and addon help.
+ - **Vayandas** for redesigning the moon.
