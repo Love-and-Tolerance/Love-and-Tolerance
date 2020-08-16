@@ -1,6 +1,6 @@
 # Love & Tolerance
 
-![L&T](https://love-tolerance.com/resources/img/preview.png)
+![L&T](https://love-tolerance.com/assets/banner.png)
 
 [![Downloads](https://img.shields.io/github/downloads/Love-and-Tolerance/Love-and-Tolerance/total.svg?color=blue)](https://github.com/Love-and-Tolerance/Love-and-Tolerance/releases/latest) [![Discord Server](https://img.shields.io/discord/621069869244350468.svg?color=blueviolet)](https://discord.gg/fxNMGvm)
 
