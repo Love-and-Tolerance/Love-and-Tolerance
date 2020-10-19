@@ -58,7 +58,7 @@
   "item.minecraft.experience_bottle": "Bottle of Friendship",
   "item.minecraft.gold_nugget": "Gold Bit",
   "item.minecraft.iron_nugget": "Silver Bit",
-  "item.minecraft.phantom_membrane": "Windigo Soul",
+  "item.minecraft.phantom_membrane": "Roc Pelt",
   "item.minecraft.rabbit": "Raw Angel Bunny",
   "item.minecraft.rabbit_foot": "Angel Bunny's Foot",
   "item.minecraft.rabbit_hide": "Angel Bunny's Hide",
@@ -121,8 +121,8 @@
   "subtitles.entity.guardian.flop": "Seapony flops",
   "subtitles.entity.guardian.hurt": "Seapony hurts",
 
-  "entity.minecraft.phantom": "Windigo",
-  "item.minecraft.phantom_spawn_egg": "Windigo Spawn Egg",
+  "entity.minecraft.phantom": "Roc",
+  "item.minecraft.phantom_spawn_egg": "Roc Spawn Egg",
 
   "entity.minecraft.rabbit": "Angel Bunny",
   "item.minecraft.rabbit_spawn_egg": "Angel Bunny Spawn Egg",
