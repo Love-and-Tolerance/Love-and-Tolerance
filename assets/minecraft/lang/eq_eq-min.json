@@ -44,6 +44,9 @@
   "block.minecraft.wither_skeleton_wall_skull": "Wither Skeletal Pony Wall Skull",
   "block.minecraft.wither_skeleton_skull": "Wither Skeletal Pony Skull",
 
+  "item.minecraft.pufferfish_bucket": "Bucket of Spike",
+  "item.minecraft.pufferfish": "Spike",
+  "item.minecraft.pufferfish_spawn_egg": "Spike Spawn Egg",
   "item.minecraft.chicken": "Raw Scootaloo",
   "item.minecraft.cooked_chicken": "Cooked Scootaloo",
   "item.minecraft.cooked_rabbit": "Cooked Angel Bunny",
