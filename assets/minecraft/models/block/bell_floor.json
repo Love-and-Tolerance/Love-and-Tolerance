@@ -1,8 +1,8 @@
 {
     "textures": {
         "particle": "block/bell_bottom",
-        "bar": "block/bell_bar",
-        "post": "block/bell_post"
+        "bar": "entity/bell/bell_bar",
+        "post": "entity/bell/bell_post"
     },
     "elements": [
         {
