@@ -1,7 +1,7 @@
 {
     "textures": {
         "particle": "block/bell_bottom",
-        "bar": "block/bell_bar"
+        "bar": "entity/bell/bell_bar_wall-ceilling"
     },
     "elements": [
         {
