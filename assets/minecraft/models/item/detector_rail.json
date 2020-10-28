@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "block/detector_rail_00"
+        "layer0": "item/detector_rail"
     }
 }
