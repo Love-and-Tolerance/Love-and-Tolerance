@@ -1,0 +1,7 @@
+
+*.ini
+*.DS_Store
+*.jar
+*.zip
+
+disabled
