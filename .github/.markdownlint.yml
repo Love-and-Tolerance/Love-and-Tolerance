@@ -1,0 +1,5 @@
+# ignore this, this is to make vscode and the markdown lint extension SHUSH about not having a top level heading in the beginning of the templates
+
+---
+MD041: false
+MD013: false
