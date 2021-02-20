@@ -28,11 +28,11 @@ This resource pack is:
 ## Links
 
 - [Website](https://love-tolerance.com)
-- [Discord](https://love-tolerance.com/discord)
-- [Archive](https://love-tolerance.com/archive)
-- [GitHub](https://love-tolerance.com/github)
-- [Issues](https://love-tolerance.com/issues)
-- [Download](https://love-tolerance.com/downloads)
+- [Discord](https://discord.love-tolerance.com)
+- [Archive](https://archive.love-tolerance.com)
+- [GitHub](https://github.love-tolerance.com)
+- [Issues](https://issues.love-tolerance.com)
+- [Download](https://download.love-tolerance.com)
 
 ## Contributing
 
