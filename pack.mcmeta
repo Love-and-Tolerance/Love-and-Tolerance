@@ -4,13 +4,13 @@
     "description": "\u00A7eMLP:FiM-inspired!\n\u00A7r\u00A7bLove-Tolerance.com"
   },
   "language": {
-    "eq_eq-min": {
-      "name": "Modern Equish-Minimal",
+    "eq_eqm": {
+      "name": "Modern Equish - Minimal",
       "region": "Equestria",
       "bidirectional": false
     },
-    "eq_eq-full": {
-      "name": "Modern Equish-Full",
+    "eq_eqf": {
+      "name": "Modern Equish - Full",
       "region": "Equestria",
       "bidirectional": false
     }
