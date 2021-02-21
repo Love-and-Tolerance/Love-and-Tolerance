@@ -7,6 +7,18 @@
 
 This is a Minecraft resource pack inspired by the visual art style and design of the show _My Little Pony: Friendship is Magic_. Bright colours and (moderate) pony references abound!
 
+## Features
+
+- Bright and colorful textures, just like the show!
+- Pony pictures are featured as paintings.
+- Its similar to the default textures, so your builds don't look completely different.
+- It is compatible with [Mine Little Pony](https://minelittlepony-mod.com/) and its ponified mobs.
+- Both Java and Bedrock (MCPE and Windows 10) editions are available.
+- It has various [add-on packs](https://love-tolerance.com/addons/) to customize the look and feel of the game.
+- Has support for Optifine and CTM textures in an add-on.
+- Used on the famous Brohoof Minecraft server.
+- The best way to explore Equestria.
+
 ## Installation
 
 - Download the Love-and-Tolerance.zip from the [releases page](https://github.com/Love-and-Tolerance/Love-and-Tolerance/releases/latest). Don't use the source code options!
@@ -14,16 +26,6 @@ This is a Minecraft resource pack inspired by the visual art style and design of
 - Copy/paste the downloaded zip file into your resource pack folder.
 - Go back into Minecraft, click out of then back into the resource pack selection setting (to refresh it).
 - Click the arrow to move Love and Tolerance to the active side.
-
-## Features
-
-This resource pack is:
-
-- Brightly coloured, rainbow hued
-- Filled with pony pictures as paintings
-- The best way to explore Equestria.
-- Compatible with Optifine and CTM textures
-- Used on the famous Brohoof Minecraft server
 
 ## Links
 
@@ -36,7 +38,7 @@ This resource pack is:
 
 ## Contributing
 
-See [CONTRIBUTING.md](.github/CONTRIBUTING.md)
+Anyone can contribute, please read our [Contributing](.github/CONTRIBUTING.md) and [Code of Conduct](.github/CODE_OF_CONDUCT.md) documents before starting to help. Check out the [Issues](https://github.com/Love-and-Tolerance/Love-and-Tolerance/issues) page to see what needs done.
 
 ## Maintained by
 
