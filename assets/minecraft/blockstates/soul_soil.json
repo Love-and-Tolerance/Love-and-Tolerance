@@ -1,5 +1,9 @@
 {
     "variants": {
-        "": [ { "model": "block/soul_soil" }, { "model": "block/soul_soil_2" }, { "model": "block/soul_soil_3" }, { "model": "block/soul_soil_4" } ]
+        "": [ { "model": "block/soul_soil" },
+              { "model": "block/soul_soil_2" },
+              { "model": "block/soul_soil_3" },
+              { "model": "block/soul_soil_4" }
+            ]
     }
 }
