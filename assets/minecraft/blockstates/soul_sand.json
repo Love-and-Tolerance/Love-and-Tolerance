@@ -1,5 +1,9 @@
 {
     "variants": {
-        "": [ { "model": "block/soul_sand" }, { "model": "block/soul_sand_2" }, { "model": "block/soul_sand_3" }, { "model": "block/soul_sand_4" } ]
+        "": [ { "model": "block/soul_sand" },
+              { "model": "block/soul_sand_2" },
+              { "model": "block/soul_sand_3" },
+              { "model": "block/soul_sand_4" }
+            ]
     }
 }
