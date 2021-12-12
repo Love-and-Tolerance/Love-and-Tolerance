@@ -43,7 +43,7 @@ Anyone can contribute, please read our [Contributing](.github/CONTRIBUTING.md) a
 ## Maintained by
 
 - [Velvet Remedy](https://github.com/velvetremedy/)
-- [PCelestia](https://github.com/autumnblazey/)
+- [Autumn Meadow](https://github.com/autumnblazey/)
 
 ## Special Thanks
 
@@ -69,7 +69,7 @@ So, without further ado, I would like to thank:
 - **Velvet Remedy** for updating the pack and maintaining it from 1.12 onwards.
 - **Vivian** for general maintenance and ctm fixes from 1.13 to 1.16.
 - **Sollace** for the new UI, Github management, and file cleanup from 1.14 onward.
-- **PCelestia** for GitHub management and general maintainance from 1.15 onward.
+- **Autumn Meadow** for GitHub management and general maintainance from 1.15 onward.
 - **SkyArrow** for developing our website.
 - **Thunder Kick** for block based UI addon.
 - **Vayandas** for general texture updates from 1.15 to 1.16.
