@@ -78,3 +78,5 @@ So, without further ado, I would like to thank:
 - **Epic Acrylic** for general texture updates from 1.16 onward.
 - **ScienceMare** for general texture updates from 1.16 onward.
 - **Rainbowderp20_12/Starnite20_12** for general textures for 1.17.
+- **AtomicGlow** for chainmail fix and new netherite armor.
+- **Skelegant** for general textures for 1.18 onward.
