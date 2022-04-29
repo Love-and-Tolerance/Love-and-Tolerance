@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/leaves",
   "textures": {
-    "all": "minecraft:block/jungle_leaves_mirrored"
+    "all": "minecraft:block/oak_leaves_mirrored"
   }
 }
