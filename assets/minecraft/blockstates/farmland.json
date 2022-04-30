@@ -92,7 +92,7 @@
       "model": "minecraft:block/farmland_6"
     } ],
     "moisture=7": [ {
-      "model": "minecraft:block/farmland"
+      "model": "minecraft:block/farmland_moist"
     }, {
       "model": "minecraft:block/farmland_moist_2"
     }, {
