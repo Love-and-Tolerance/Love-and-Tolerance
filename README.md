@@ -63,20 +63,26 @@ So, without further ado, I would like to thank:
 - **CalistoVolan/Calistotash** for helping out.
 - **MehStrongBadMeh** for recruiting more people to help.
 - **PandaTork** for the main screen logo.
-- **SolisLink/ZeldaLinkAaron** for general texture and model updates from 1.11 to 1.16.
+- **FelixMoog** for allowing us to feature their music.
+- **ph00tbag** for allowing us to feature their music.
+- **eXtaticus** for allowing us to feature their music.
+- **Kurashin** for allowing us to feature their music.
+- **ShadyVox & JanAnimations** for allowing us to feature their music.
 - **Bronydog** for general textures from 1.10 onward.
+- **SolisLink/ZeldaLinkAaron** for general texture and model updates from 1.11 to 1.16.
 - **VeryMadCrafter** for grass/dirt path & magma block textures.
 - **Velvet Remedy** for updating the pack and maintaining it from 1.12 onwards.
 - **Vivian** for general maintenance and ctm fixes from 1.13 to 1.16.
-- **Sollace** for the new UI, Github management, and file cleanup from 1.14 onward.
+- **Sollace** for the new UI, Github management, and file cleanup from 1.14 to 1.16.
 - **Autumn Meadow** for GitHub management and general maintainance from 1.15 onward.
 - **SkyArrow** for developing our website.
 - **Thunder Kick** for block based UI addon.
 - **Vayandas** for general texture updates from 1.15 to 1.16.
 - **Keupoz** for upgrading our website.
 - **Mr. Pibbles** for the dried kelp block texture.
-- **Epic Acrylic** for general texture updates from 1.16 onward.
-- **ScienceMare** for general texture updates from 1.16 onward.
+- **Epic Acrylic** for general texture updates from 1.16 to 1.17.
+- **ScienceMare** for general texture updates for 1.16.
 - **Rainbowderp20_12/Starnite20_12** for general textures for 1.17.
 - **AtomicGlow** for chainmail fix and new netherite armor.
 - **Skelegant** for general textures for 1.18 onward.
+- **Ashy** for new splashes and fabric creative tab selector.
