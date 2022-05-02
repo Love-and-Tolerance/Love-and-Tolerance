@@ -40,6 +40,10 @@ This is a Minecraft resource pack inspired by the visual art style and design of
 
 Anyone can contribute, please read our [Contributing](.github/CONTRIBUTING.md) and [Code of Conduct](.github/CODE_OF_CONDUCT.md) documents before starting to help. Check out the [Issues](https://github.com/Love-and-Tolerance/Love-and-Tolerance/issues) page to see what needs done.
 
+## License
+
+This resource pack is licensed under The MIT License (MIT), with the exception of the music featured in this pack, which are located [here](assets/minecraft/sounds/records). The copyright of these music files belong to their repsective owners, and permission has been granted for use in this pack. You can read our full license [here](LICENSE).
+
 ## Maintained by
 
 - [Velvet Remedy](https://github.com/velvetremedy/)
