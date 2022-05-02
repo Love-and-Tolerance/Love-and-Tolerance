@@ -90,3 +90,4 @@ So, without further ado, I would like to thank:
 - **AtomicGlow** for chainmail fix and new netherite armor.
 - **Skelegant** for general textures for 1.18 onward.
 - **Ashy** for new splashes and fabric creative tab selector.
+- **Thorinair** for allowing us to feature their music.
