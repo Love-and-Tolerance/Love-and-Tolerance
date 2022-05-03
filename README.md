@@ -67,11 +67,11 @@ So, without further ado, I would like to thank:
 - **CalistoVolan/Calistotash** for helping out.
 - **MehStrongBadMeh** for recruiting more people to help.
 - **PandaTork** for the main screen logo.
-- **FelixMoog** for allowing us to feature their music.
-- **ph00tbag** for allowing us to feature their music.
-- **eXtaticus** for allowing us to feature their music.
+- **[FelixMoog](https://felixmoog.bandcamp.com/)** for allowing us to feature their music.
+- **[ph00tbag](https://www.youtube.com/user/originalph00tbag)** for allowing us to feature their music.
+- **[eXtaticus](https://www.youtube.com/user/Extaticus)** for allowing us to feature their music.
 - **Kurashin** for allowing us to feature their music.
-- **ShadyVox & JanAnimations** for allowing us to feature their music.
+- **[ShadyVox](https://shadyvox.bandcamp.com/) & [JanAnimations](https://www.youtube.com/user/jananimationstudios)** for allowing us to feature their music.
 - **Bronydog** for general textures from 1.10 onward.
 - **SolisLink/ZeldaLinkAaron** for general texture and model updates from 1.11 to 1.16.
 - **VeryMadCrafter** for grass/dirt path & magma block textures.
@@ -90,5 +90,5 @@ So, without further ado, I would like to thank:
 - **AtomicGlow** for chainmail fix and new netherite armor.
 - **Skelegant** for general textures for 1.18 onward.
 - **Ashy** for new splashes and fabric creative tab selector.
-- **Thorinair** for allowing us to feature their music.
-- **Jyc Row** for allowing us to feature their music.
+- **[Thorinair](https://thorinair.bandcamp.com/)** for allowing us to feature their music.
+- **[Jyc Row](https://jycrow.bandcamp.com/)** for allowing us to feature their music.
