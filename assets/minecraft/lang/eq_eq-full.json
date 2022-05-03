@@ -54,8 +54,6 @@
   "item.minecraft.pufferfish": "Spike",
   "item.minecraft.pufferfish_spawn_egg": "Spike Spawn Egg",
   "item.minecraft.blaze_rod": "Twicane",
-  "item.minecraft.chicken": "Raw Scootaloo",
-  "item.minecraft.cooked_chicken": "Cooked Scootaloo",
   "item.minecraft.cooked_rabbit": "Cooked Angel Bunny",
   "item.minecraft.dragon_breath": "Spike's Bad Breath",
   "item.minecraft.experience_bottle": "Bottle of Friendship",
@@ -106,13 +104,6 @@
   "item.minecraft.music_disc_wait.desc": "FelixMoog - Discord",
   "item.minecraft.music_disc_pigstep.desc": "Jyc Row - An Army of Fire and Gold (The Molten)",
   "item.minecraft.music_disc_5.desc": "Thorinair - A Recurring Nightmare",
-
-  "entity.minecraft.chicken": "Scootaloo",
-  "item.minecraft.chicken_spawn_egg": "Scootaloo Spawn Egg",
-  "subtitles.entity.chicken.ambient": "Scootaloo clucks",
-  "subtitles.entity.chicken.death": "Scootaloo dies",
-  "subtitles.entity.chicken.egg": "Scootaloo plops",
-  "subtitles.entity.chicken.hurt": "Scootaloo hurts",
 
   "entity.minecraft.elder_guardian": "Elder Seapony",
   "item.minecraft.elder_guardian_spawn_egg": "Elder Seapony Spawn Egg",
