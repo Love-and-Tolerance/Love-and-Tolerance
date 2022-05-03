@@ -83,8 +83,22 @@
   "item.minecraft.diamond_leggings": "Luna's Leggings",
   "item.minecraft.diamond_boots": "Luna's Boots",
 
-
   "entity.minecraft.player": "Pony",
+
+  "item.minecraft.music_disc_13.desc": "FelixMoog - Love Bloom",
+  "item.minecraft.music_disc_cat.desc": "FelixMoog - Building Buddies",
+  "item.minecraft.music_disc_blocks.desc": "ph00tbag - Let Her In",
+  "item.minecraft.music_disc_chirp.desc": "eXtaticus - This Is Our Big Night",
+  "item.minecraft.music_disc_far.desc": "ph00tbag - Down To Earth",
+  "item.minecraft.music_disc_mall.desc": "Kurashin - A True True Friend",
+  "item.minecraft.music_disc_mellohi.desc": "eXtaticus - Hide Away (Healing Remix)",
+  "item.minecraft.music_disc_stal.desc": "eXtaticus - Sunlight Remix",
+  "item.minecraft.music_disc_strad.desc": "FelixMoog - It’s Nighttime",
+  "item.minecraft.music_disc_ward.desc": "eXtaticus - Apples to the Core",
+  "item.minecraft.music_disc_11.desc": "ShadyVox & JanAnimations - Don’t Mine at Night",
+  "item.minecraft.music_disc_wait.desc": "FelixMoog - Discord",
+  "item.minecraft.music_disc_pigstep.desc": "Jyc Row - An Army of Fire and Gold (The Molten)",
+  "item.minecraft.music_disc_5.desc": "Thorinair - A Recurring Nightmare",
 
   "entity.minecraft.chicken": "Scootaloo",
   "item.minecraft.chicken_spawn_egg": "Scootaloo Spawn Egg",
