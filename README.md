@@ -91,6 +91,10 @@ So, without further ado, I would like to thank:
 - **Ashy** for new splashes and fabric creative tab selector.
 - **[Thorinair]** for allowing us to feature their music.
 - **[Jyc Row]** for allowing us to feature their music.
+- **[Prince Whateverer]** for allowing us to feature their music.
+- **[4EverfreeBrony]** for allowing us to feature their music.
+- **[Etherium Apex]** for allowing us to feature their music.
+- **[Archie]** for allowing us to feature their music.
 
 ## Music credits
 
