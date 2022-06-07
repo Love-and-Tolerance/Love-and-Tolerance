@@ -137,7 +137,7 @@ The music for side B is located in an add-on, its repository can be found [here]
 - Disc 5: **[Prince Whateverer]** - Frailty (feat. Milkymomo)",
 
 
-[banner]: https://love-tolerance.com/assets/banner.png
+[banner]: https://love-tolerance.com/banner.png
 
 [downloads]: https://github.com/Love-and-Tolerance/Love-and-Tolerance/releases/latest
 [discord]: https://discord.gg/fxNMGvm
