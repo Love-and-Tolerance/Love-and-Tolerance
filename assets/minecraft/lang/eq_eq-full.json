@@ -123,7 +123,6 @@
   "item.minecraft.wolf_spawn_egg": "Wolf Spawn Cupcake",
   "item.minecraft.zoglin_spawn_egg": "Zoglin Spawn Cupcake",
   "item.minecraft.zombie_horse_spawn_egg": "Zombie Horse Spawn Cupcake",
-  "item.minecraft.zombified_piglin_spawn_egg": "Zombified Piglin Spawn Cupcake",
   "item.minecraft.goat_spawn_egg": "Goat Spawn Cupcake",
 
   "item.minecraft.elytra": "Changeling Wings",
@@ -271,12 +270,12 @@
   "subtitles.entity.zombie.hurt": "Zompony hurts",
   "subtitles.entity.zombie.infect": "Zompony infects",
 
-  "entity.minecraft.zombie_pigman": "Zompig",
-  "item.minecraft.zombie_pigman_spawn_egg": "Zompig Spawn Cupcake",
-  "subtitles.entity.zombie_pigman.ambient": "Zompig grunts",
-  "subtitles.entity.zombie_pigman.angry": "Zompig angers",
-  "subtitles.entity.zombie_pigman.death": "Zompig dies",
-  "subtitles.entity.zombie_pigman.hurt": "Zompig hurts",
+  "entity.minecraft.zombified_piglin": "Zompig",
+  "item.minecraft.zombified_piglin_spawn_egg": "Zompig Spawn Cupcake",
+  "subtitles.entity.zombified_piglin.ambient": "Zompig grunts",
+  "subtitles.entity.zombified_piglin.angry": "Zompig angers",
+  "subtitles.entity.zombified_piglin.death": "Zompig dies",
+  "subtitles.entity.zombified_piglin.hurt": "Zompig hurts",
 
   "entity.minecraft.zombie_villager": "Zompony Villager",
   "item.minecraft.zombie_villager_spawn_egg": "Zompony Villager Spawn Cupcake",
