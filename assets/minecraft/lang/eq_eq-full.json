@@ -411,6 +411,8 @@
   "advancements.nether.summon_wither.title": "Uh oh",
   "advancements.nether.summon_wither.description": "Unleash Discord",
 
+  "advancements.end.kill_dragon.title": "The Ending of the End",
+
   "death.attack.wither": "%1$s devolved into chaos",
   "death.attack.wither.player": "%1$s devolved into chaos whilst fighting %2$s",
 
