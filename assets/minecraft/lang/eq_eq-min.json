@@ -361,6 +361,8 @@
   "advancements.nether.all_potions.title": "Apple Apple Apple Apple...",
   "advancements.nether.all_potions.description": "Have every cider effect applied at the same time",
 
+  "advancements.end.kill_dragon.title": "The Ending of the End",
+
   "argument.entity.selector.nearestPlayer": "Nearest pony",
   "argument.entity.selector.randomPlayer": "Random pony",
   "argument.entity.selector.allPlayers": "All ponies",
