@@ -83,7 +83,7 @@ So, without further ado, I would like to thank:
 - **Vayandas** for general texture updates from 1.15 to 1.16.
 - **Keupoz** for upgrading our website.
 - **Mr. Pibbles** for the dried kelp block texture.
-- **Epic Acrylic** for general texture updates from 1.16 to 1.17.
+- **Anonymous** for general texture updates from 1.16 to 1.17.
 - **[ScienceMare]** for general texture updates for 1.16.
 - **Rainbowderp20_12/Starnite20_12** for general textures for 1.17.
 - **AtomicGlow** for chainmail fix and new netherite armor.
