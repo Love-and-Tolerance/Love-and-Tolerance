@@ -114,7 +114,7 @@ The music for side A is located in this repository.
 - Disc 11: **[ShadyVox]** & **[JanAnimations]** - Don’t Mine at Night
 - Disc wait: **[FelixMoog]** - Discord
 - Disc pigstep: **[Jyc Row]** - An Army of Fire and Gold (The Molten)
-- Disc otherside:
+- Disc otherside: **[4EverfreeBrony]** - The Perfect Chair, The Perfect Book",
 - Disc 5: **[Thorinair]** - A Recurring Nightmare
 
 ### Side B
@@ -134,7 +134,7 @@ The music for side B is located in an add-on, its repository can be found [here]
 - Disc wait: **[Archie]** - Chasing The Sunrise
 - Disc pigstep: **[Jyc Row]** - Sonic Rainboom
 - Disc otherside: **[4EverfreeBrony]** - Life Outside (feat. BlackGryph0n, Aviators, dBPony, Luna Jax, MEMJ0123, P1K, Manta Tsubasa & PrinceWhateverer)
-- Disc 5: **[Prince Whateverer]** - Frailty (feat. Milkymomo)",
+- Disc 5: **[Prince Whateverer]** - Frailty (feat. Milkymomo)
 
 
 [banner]: https://love-tolerance.com/banner.png
