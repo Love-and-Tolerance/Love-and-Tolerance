@@ -86,7 +86,7 @@ So, without further ado, I would like to thank:
 - **Anonymous** for general texture updates from 1.16 to 1.17.
 - **[ScienceMare]** for general texture updates for 1.16.
 - **Rainbowderp20_12/Starnite20_12** for general textures for 1.17.
-- **AtomicGlow** for chainmail fix and new netherite armor.
+- **AtomicGlow** for armor fix, Nightmare Night addon maintenance, increased mod support.
 - **Skelegant** for general textures for 1.18 onward.
 - **Ashy** for new splashes and fabric creative tab selector.
 - **[Thorinair]** for allowing us to feature their music.
@@ -95,6 +95,7 @@ So, without further ado, I would like to thank:
 - **[4EverfreeBrony]** for allowing us to feature their music.
 - **[Etherium Apex]** for allowing us to feature their music.
 - **[Archie]** for allowing us to feature their music.
+- **Nebbie** for helping design bamboo blocks and 3 pumpkins for the Nightmare Night addon.
 
 ## Music credits
 
@@ -114,7 +115,7 @@ The music for side A is located in this repository.
 - Disc 11: **[ShadyVox]** & **[JanAnimations]** - Don’t Mine at Night
 - Disc wait: **[FelixMoog]** - Discord
 - Disc pigstep: **[Jyc Row]** - An Army of Fire and Gold (The Molten)
-- Disc otherside: **[4EverfreeBrony]** - The Perfect Chair, The Perfect Book",
+- Disc otherside: **[4EverfreeBrony]** - The Perfect Chair, The Perfect Book
 - Disc 5: **[Thorinair]** - A Recurring Nightmare
 
 ### Side B
