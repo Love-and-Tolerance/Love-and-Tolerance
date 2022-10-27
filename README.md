@@ -45,7 +45,7 @@ This resource pack is licensed under The MIT License (MIT), with the exception o
 
 ## Maintained by
 
-- [Velvet Remedy]
+- [Silk Rose]
 - [Autumn Meadow]
 
 ## Special Thanks
@@ -74,7 +74,7 @@ So, without further ado, I would like to thank:
 - **Bronydog** for general textures from 1.10 onward.
 - **SolisLink/ZeldaLinkAaron** for general texture and model updates from 1.11 to 1.16.
 - **VeryMadCrafter** for grass/dirt path & magma block textures.
-- **[Velvet Remedy]** for updating the pack and maintaining it from 1.12 onwards.
+- **[Silk Rose]** for updating the pack and maintaining it from 1.12 onwards.
 - **Vivian** for general maintenance and ctm fixes from 1.13 to 1.16.
 - **Sollace** for the new UI, Github management, and file cleanup from 1.14 to 1.16.
 - **[Autumn Meadow]** for GitHub management and general maintainance from 1.15 onward.
@@ -160,7 +160,7 @@ The music for side B is located in an add-on, its repository can be found [here]
 [music location]: assets/minecraft/sounds/records
 [license]: LICENSE
 
-[Velvet Remedy]: https://github.com/velvetremedy/ "github"
+[Silk Rose]: https://github.com/SilkRose/ "github"
 [Autumn Meadow]: https://github.com/autumnblazey/ "github"
 
 [email]: mailto:contact@love-tolerance.com
