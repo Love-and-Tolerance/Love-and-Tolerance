@@ -1,9 +1,9 @@
 # Love & Tolerance
 
-![L&T][banner]
+![L&T][Banner]
 
-[![Downloads](https://img.shields.io/github/downloads/Love-and-Tolerance/Love-and-Tolerance/total.svg?color=blue)][downloads]
-[![Discord Server](https://img.shields.io/discord/621069869244350468.svg?color=blueviolet)][discord]
+[![Downloads](https://img.shields.io/github/downloads/Love-and-Tolerance/Love-and-Tolerance/total.svg?color=blue)][Downloads]
+[![Discord Server](https://img.shields.io/discord/621069869244350468.svg?color=blueviolet)][Discord]
 
 This is a Minecraft resource pack inspired by the visual art style and design of the show _My Little Pony: Friendship is Magic_. Bright colours and (moderate) pony references abound!
 
@@ -20,7 +20,7 @@ This is a Minecraft resource pack inspired by the visual art style and design of
 
 ## Installation
 
-- Download the Love-and-Tolerance.zip from the [releases page][releases]. Don't use the source code options!
+- Download the Love-and-Tolerance.zip from the [Downloads page][Downloads].
 - Open Minecraft and navigate to the Resource Pack selection setting and click "open resource pack folder".
 - Copy/paste the downloaded zip file into your resource pack folder.
 - Go back into Minecraft, click out of then back into the resource pack selection setting (to refresh it).
@@ -33,15 +33,15 @@ This is a Minecraft resource pack inspired by the visual art style and design of
 - [Archive]
 - [GitHub]
 - [Issues]
-- [Download]
+- [Downloads]
 
 ## Contributing
 
-Anyone can contribute, please read our [Contributing][contrib] and [Code of Conduct][CoC] documents before starting to help. Check out the [Issues] page to see what needs done.
+Anyone can contribute, please read our [Contributing] and [Code of Conduct] documents before starting to help. Check out the [Issues] page to see what needs done.
 
 ## License
 
-This resource pack is licensed under The MIT License (MIT), with the exception of the music featured in this pack, which are located [here][music location]. The copyright of these music files belong to their repsective owners, and permission has been granted for use in this pack. You can read our full license [here][license].
+This resource pack is licensed under The MIT License (MIT), with the exception of the music featured in this pack, which are located [here][Music Location]. The copyright of these music files belong to their repsective owners, and permission has been granted for use in this pack. You can read our full license [here][License].
 
 ## Maintained by
 
@@ -50,7 +50,7 @@ This resource pack is licensed under The MIT License (MIT), with the exception o
 
 ## Special Thanks
 
-This resource pack has come a long way and has been touched by many different people, I would like to make sure that each and every one of these people is credited. If you have worked on this pack and do not see your name on the list please [contact us][email] to get you added.
+This resource pack has come a long way and has been touched by many different people, I would like to make sure that each and every one of these people is credited. If you have worked on this pack and do not see your name on the list please [contact us][Email] to get you added.
 
 So, without further ado, I would like to thank:
 
@@ -100,6 +100,7 @@ So, without further ado, I would like to thank:
 ## Music credits
 
 ### Side A
+
 The music for side A is located in this repository.
 
 - Disc 13: **[FelixMoog]** - Love Bloom
@@ -119,10 +120,11 @@ The music for side A is located in this repository.
 - Disc 5: **[Thorinair]** - A Recurring Nightmare
 
 ### Side B
+
 The music for side B is located in an add-on, its repository can be found [here][side b].
 
 - Disc 13: **[Prince Whateverer]** - Goodbye
-- Disc cat: **[4EverfreeBrony]** - The Way She Flies (feat. FritzyBeat & Brittney Ackerman)[Original by Phileo]
+- Disc cat: **[4EverfreeBrony]** - The Way She Flies (feat. FritzyBeat & Brittney Ackerman) [Original by Phileo]
 - Disc blocks: **[Etherium Apex]** - Flight of the Wonderbolts
 - Disc chirp: **[Prince Whateverer]** - Between Fairytales And Happy Endings (feat. Kaspuuh & Senra)
 - Disc far: **[Jyc Row]** - Onward (ft. Aloma Steele)
@@ -137,47 +139,40 @@ The music for side B is located in an add-on, its repository can be found [here]
 - Disc otherside: **[4EverfreeBrony]** - Life Outside (feat. BlackGryph0n, Aviators, dBPony, Luna Jax, MEMJ0123, P1K, Manta Tsubasa & PrinceWhateverer)
 - Disc 5: **[Prince Whateverer]** - Frailty (feat. Milkymomo)
 
+[Banner]: https://love-tolerance.com/banner.png
 
-[banner]: https://love-tolerance.com/banner.png
-
-[downloads]: https://github.com/Love-and-Tolerance/Love-and-Tolerance/releases/latest
-[discord]: https://discord.gg/fxNMGvm
+[Downloads]: https://love-tolerance.com/downloads
+[Discord]: https://discord.gg/fxNMGvm
 
 [MineLP]: https://minelittlepony-mod.com/
 
-[releases]: https://github.com/Love-and-Tolerance/Love-and-Tolerance/releases/latest
-
 [Website]: https://love-tolerance.com
-[Discord]: https://discord.love-tolerance.com
 [Archive]: https://archive.love-tolerance.com
 [GitHub]: https://github.love-tolerance.com
 [Issues]: https://issues.love-tolerance.com
-[Download]: https://download.love-tolerance.com
 
-[contrib]: .github/CONTRIBUTING.md
-[CoC]: .github/CODE_OF_CONDUCT.md
+[Contributing]: .github/CONTRIBUTING.md
+[Code of Conduct]: .github/CODE_OF_CONDUCT.md
 
-[music location]: assets/minecraft/sounds/records
-[license]: LICENSE
+[Music Location]: assets/minecraft/sounds/records
+[License]: LICENSE
 
 [Silk Rose]: https://github.com/SilkRose/ "github"
 [Autumn Meadow]: https://github.com/autumnblazey/ "github"
 
-[email]: mailto:contact@love-tolerance.com
-
-[ScienceMare]: https://steamcommunity.com/profiles/76561198850316221/ "steam"
-
-[side b]: https://github.com/Love-and-Tolerance/Music-side-B "github"
+[Email]: mailto:contact@love-tolerance.com
 
 [FelixMoog]: https://felixmoog.bandcamp.com/
 [Sonic Rainboom]: https://jexpsytrance.bandcamp.com/ "bandcamp"
 [eXtaticus]: https://www.youtube.com/user/Extaticus "youtube"
 [ShadyVox]: https://shadyvox.bandcamp.com/ "bandcamp"
 [JanAnimations]: https://www.youtube.com/user/jananimationstudios "youtube"
+[ScienceMare]: https://steamcommunity.com/profiles/76561198850316221/ "steam"
 [Thorinair]: https://thorinair.bandcamp.com/ "bandcamp"
+[Jyc Row]: https://jycrow.bandcamp.com/ "bandcamp"
 [Prince Whateverer]: https://princewhateverer.bandcamp.com/ "bandcamp"
 [4EverfreeBrony]: https://4everfreebrony.bandcamp.com/ "bandcamp"
 [Etherium Apex]: https://etheriumapex.bandcamp.com/ "bandcamp"
-[Jyc Row]: https://jycrow.bandcamp.com/ "bandcamp"
 [Archie]: https://mrarchie.bandcamp.com/ "bandcamp"
 
+[side b]: https://github.com/Love-and-Tolerance/Music-side-B "github"
