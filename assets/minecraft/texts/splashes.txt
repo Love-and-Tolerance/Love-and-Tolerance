@@ -8,7 +8,6 @@ Pony!
 Pony should pony pony!
 Rainbows included!
 Make some friends!
-Alicorn OCs are bad!
 Glamorous!
 What are you, a dictionary?
 Scared of dragons!
@@ -28,6 +27,7 @@ Never confuse Jackle App with Jappleack!
 Derpy's original voice was better!
 *deep breath*
 yay
+yay!
 Wreak some chaos!
 Restore some harmony!
 Hey hey hey!
@@ -97,7 +97,6 @@ Suitable for pegasus-eses!
 Your very special somepony!
 All dressed up for the Gala!
 That's the magic of friendship!
-Skippy's kinda of meanie!
 Cadence <3 Shining!
 The BronyModPack is pretty great!
 No humans allowed!
@@ -132,7 +131,6 @@ They went and ponified me!
 Have tuba, will travel!
 You don't ask why when it's Lyra and Bon Bon!
 Buy some apples!
-Shut up Applejack, no one cares!
 Auditioned for the Wonderbolts!
 Too many Pinkie Pies!
 Over a barrel!
@@ -157,10 +155,8 @@ twiglet spakkul!
 Fancy Pants!
 Cows are friends, not food!
 Don't hurt the villagers!
-Okey dokey lokey!
 Fan fiction!
-Appledash is a good ship!
-This is gonna be SO AWESOME!
+This is gonna be SO AWESOME! /)^w^(\
 Hey, y'know what this calls for?
 My Pinkie sense is tingling!
 I didn't learn anything!
@@ -177,7 +173,6 @@ Woo, BronyCon!
 Woo, /r/mylittleminecraft!
 Woo, /r/mylittlepony!
 Woo, DHX Media!
-Hey hey hey!
 I want it!
 Give us Granny Smith!
 Invite your friends over!
@@ -212,7 +207,6 @@ Notch is a brony!
 Ponies with ponytails!
 All the apples you could ever want!
 You can become an alicorn too!
-Tsarbomb is a sadsack!
 Stay a while and listen!
 Calls upon the sea ponies!
 Open up mister mailbox!
@@ -226,11 +220,9 @@ Real ponies used as reference!
 Doesn't have an OC!
 Dashy, you're so strong!
 Give me a dash of loyalty!
-Fluttershy's mane is full of mice!
 Mine Little Pony!
 Don't forget Opal Essence!
 Hey!
-This message will never appear on the splash screen, isn't that weird?
 A sonic rainboom!
 Bubbles!
 DJ HUM-4N!
@@ -246,11 +238,9 @@ Also try Pound Puppies!
 Also try The Aquabats! Super Show!
 Also try Littlest Pet Shop!
 Ponies are cool!
-Rainbow Dash can be annoying!
 Read more books!
 Spiiiiiiiiike!
 Less attractive than the show itself!
-More attractive than Cranky Doodle Donkey!
 Puts two and two and two together!
 Millions of ponies!
 Cupcakes!
@@ -258,7 +248,6 @@ Is Nightmare Moon her true form?
 Totally forgot about Davenport!
 Sombra could have had a few more lines!
 Chancellor Puddinghead!
-"Plothole" can mean something quite different!
 Safe For Woona!
 Scootaloo says "SQUARK"!
 It's not! Creepy!
@@ -294,7 +283,6 @@ There's a lot going on in Ponyville!
 The magic of friendship never changes!
 There's wonderful views from the moon!
 Hoof bump!
-Horns OR wings! Not both!
 Equestria has no TVs!
 Trot with me!
 Who's that Ponymon?
@@ -307,16 +295,10 @@ The magic of friendship grows!
 h
 Pony Life!
 Uncouth!
-Step 1. Watch Ponies!
-Step 2. ????
-Step 3. PROFIT!
 THE SMOOOZE!
 Oatmeal, are you crazy?
 Care for a diamond?
-Well, it §e§owas§r§e a gift for Moondancer...
-The grand galloping gala is the best place for me!
 Talk about eye candy!
-Still skinnier than spike!
 Looks perfect on a giant hat!
 It's so real to me!
 Old and fake mythology
@@ -329,7 +311,6 @@ Still cleaning up the viruses that you have left!
 Don't stop until you hear the §e§oyay§r§e!
 Element of harmony inside!
 Sweet Celestia!
-Don't feed the parasprites!
 Bungled all its bangles!
 Rife with devastation!
 Big adventure!
@@ -348,17 +329,34 @@ Woof it up with the weepy!
 Chortle at the cooky!
 Snortle at the spooky!
 Laugh and make them disappear!
-Is there any way to fix a broken heart?
 You've got the music in you!
-In a city not some back water!
+In a city not some backwater!
 Cider! Cider! Cider! Cider!
-Puns beyond belief!
-The horror! The horror!
-More like An§e§oKony§r§e C, amirite?
-What ya know about nightmare night, son?
-Another stepping stone for taking back the throne!
 Take your tyranny away!
 I'd like to be a tree!
 MMMM?
 Argyle is best dad!
 Don't question how hooves work!
+L&T-licious!
+It's great to be different!
+Eeeeeee
+P IS FOR RAINBOW DASH!
+Funnerific!
+Funna fun fun!
+I see...
+Golly!
+Pony pony = new Pony();
+Also try Steven Universe!
+Silk Rose is cute!
+Pinkie Pie is cute!
+Rarity is cute!
+Fluttershy is cute!
+Twilight Sparkle is cute!
+Rainbow Dash is cute!
+Applejack is cute!
+Sunny Starscout is cute!
+Hitch Trailblazer is cute!
+Izzy Moonbow is cute!
+Pipp Petals is cute!
+Zipp Storm is cute!
+Zipp is short for Zephyrina!
