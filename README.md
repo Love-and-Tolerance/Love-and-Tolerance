@@ -41,7 +41,7 @@ Anyone can contribute, please read our [Contributing] and [Code of Conduct] docu
 
 ## License
 
-This resource pack is licensed under The MIT License (MIT), with the exception of the music featured in this pack, which are located [here][Music Location]. The copyright of these music files belong to their repsective owners, and permission has been granted for use in this pack. You can read our full license [here][License].
+This resource pack is licensed under The MIT License (MIT), with the exception of the music featured in this pack, which are located in two seperate repos, side A can be found [here][side a], and side B can be found [here][side b]. The copyright of these music files belong to their repsective owners, and permission has been granted for use in this pack.
 
 ## Maintained by
 
@@ -101,7 +101,7 @@ So, without further ado, I would like to thank:
 
 ### Side A
 
-The music for side A is located in this repository.
+The music for side A is located in an add-on, its repository can be found [here][side a].
 
 - Disc 13: **[FelixMoog]** - Love Bloom
 - Disc cat: **[FelixMoog]** - Building Buddies
@@ -154,9 +154,6 @@ The music for side B is located in an add-on, its repository can be found [here]
 [Contributing]: .github/CONTRIBUTING.md
 [Code of Conduct]: .github/CODE_OF_CONDUCT.md
 
-[Music Location]: assets/minecraft/sounds/records
-[License]: LICENSE
-
 [Silk Rose]: https://github.com/SilkRose/ "github"
 [Autumn Meadow]: https://github.com/autumnblazey/ "github"
 
@@ -175,4 +172,5 @@ The music for side B is located in an add-on, its repository can be found [here]
 [Etherium Apex]: https://etheriumapex.bandcamp.com/ "bandcamp"
 [Archie]: https://mrarchie.bandcamp.com/ "bandcamp"
 
+[side a]: https://github.com/Love-and-Tolerance/Music-side-A "github"
 [side b]: https://github.com/Love-and-Tolerance/Music-side-B "github"
