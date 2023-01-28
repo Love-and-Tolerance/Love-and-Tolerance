@@ -149,9 +149,9 @@ The community made skins located [here][Non MIT Location] in [this][Villager Ski
 
 ## Special Thanks
 
-This resource pack has come a long way and has been touched by many different people, I would like to make sure that each and every one of these people is credited. If you have worked on this pack and do not see your name on the list please [contact us][Email] to get you added.
+This resource pack has come a long way and has been touched by many different people, we would like to make sure that each and every one of these people is credited. If you have worked on this pack and do not see your name on the list please [contact us][Email] to get you added.
 
-So, without further ado, I would like to thank:
+So, without further ado, we would like to thank:
 
 - **Arekuzu** for creating the pack and maintaining it from Beta 1.6.6 to Beta 1.7.3.
 - **BlackDutchie** for making the original moon.
@@ -236,7 +236,7 @@ The music for side B is located in an add-on, its repository can be found [here]
 
 ## Villager Skin Credits
 
-The skins in the [Villager Skin Pack] were made by the community for anyone to use, therefore I would like to give special thanks to the ponies who made skins for it:
+The skins in the [Villager Skin Pack] were made by the community for anyone to use, therefore we would like to give special thanks to the ponies who made skins for it:
 
 - **AlphaSpaceWombat**
 - **AlphaZero**
