@@ -296,7 +296,7 @@ The skins in the [Villager Skin Pack] were made by the community for anyone to u
 [Silk Rose Email]: mailto:velvetremedy@love-tolerance.com "Email"
 [Silk Rose FIMFiction]: https://www.fimfiction.net/user/237915/Silk_Rose "FIMFiction"
 
-[Meadowsys Github]: https://github.com/autumnblazey/ "GitHub"
+[Meadowsys Github]: https://github.com/Meadowsys "GitHub"
 [Meadowsys Twitter]: https://twitter.com/autumnblazey "Twitter"
 
 [Keupoz GitHub]: https://github.com/keupoz "GutHub"
