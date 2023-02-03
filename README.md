@@ -257,7 +257,7 @@ The skins in the [Villager Skin Pack] were made by the community for anyone to u
 
 <!-- Links go here. -->
 
-[Banner]: https://love-tolerance.com/banner.png
+[Banner]: https://raw.githubusercontent.com/Love-and-Tolerance/love-tolerance-site-dev/deploy/public/banner.png
 
 [MineLP]: https://minelittlepony-mod.com "Mine Little Pony"
 
