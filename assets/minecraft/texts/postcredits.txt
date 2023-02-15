@@ -1,6 +1,96 @@
+§f                          ============
+§e              Love & Tolerance Resource Pack
+§f                          ============
+
+§7Maintainers
+§f            Silk Rose §7Silk_Rose
+§7              - Java, Bedrock, Github
+§f            Meadowsys §7Meadowsys
+§7              - Java, Github
+§f            Keupoz §7Keupoz
+§7              - Website
+§f            Langtanium §7Langtanium
+§7              - Bedrock
+
+§7Contributors
+§f            Arekuzu
+§f            BlackDutchie
+§f            Orshcmann
+§f            Rederik
+§f            Blackm3sh
+§f            Hazzat
+§f            Outa
+§f            HeadPikachu
+§f            PandaTork
+§f            Hawkseye21
+§f            Dan494
+§f            Lphemphill
+§f            CalistoVolan/Calistotash
+§f            MehStrongBadMeh
+§f            The VoxelModPack Team
+§f            Heliostorm
+§f            HellSteedTrotsky
+§f            Bronydog
+§f            SolisLink/ZeldaLinkAaron
+§f            VeryMadCrafter
+§f            icrdr
+§f            Vivian
+§f            Silk Rose
+§f            Sollace
+§f            Meadowsys
+§f            SkyArrow
+§f            Thunder Kick
+§f            Vayandas
+§f            Keupoz
+§f            Mr. Pibbles
+§f            Anonymous
+§f            ScienceMare
+§f            Rainbowderp20_12/Starnite20_12
+§f            AtomicGlow
+§f            Skelegant
+§f            Ashy
+§f            Nebbie
+§f            Langtanium
+
+§7Music Side A
+§f            FelixMoog
+§f            Sonic Rainboom
+§f            eXtaticus
+§f            Kurashin
+§f            ShadyVox & JanAnimations
+§f            Jyc Row
+§f            4EverfreeBrony
+§f            Thorinair
+
+§7Music Side B
+§f            PrinceWhateverer
+§f            4EverfreeBrony
+§f            Etherium Apex
+§f            Jyc Row
+§f            Archie      
+
+§7Villager Skins
+§f            AlphaSpaceWombat
+§f            AlphaZero
+§f            dann494
+§f            Harlequinnqueen
+§f            Harlequinqueen
+§f            iKudoShinichiHoof
+§f            KarinaAE123
+§f            P47HF1ND3R
+§f            Parchment_Pen
+§f            SF Legend
+§f            Silk Rose
+§f            Silverwhisker
+§f            Snydertime86
+§f            Sollace
+§f            Stephanoodle
+§f            Sunny
 
 
 
 
 
 §f"Friendship isn't easy, but there's no doubt it's worth fighting for." §7- Twilight Sparkle
+
+§f"We'll do our part. Hoof to heart." §7- Sunny Starscout
