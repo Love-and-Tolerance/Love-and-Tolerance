@@ -1,12 +1,12 @@
 {
-    "parent": "block/cube",
-    "textures": {
-        "particle": "block/cartography_table_side3",
-        "down": "block/cartography_table_bottom",
-        "up": "block/cartography_table_top",
-        "north": "block/cartography_table_side3",
-        "east": "block/cartography_table_side3",
-        "south": "block/cartography_table_side1",
-        "west": "block/cartography_table_side2"
-    }
+	"parent": "block/cube",
+	"textures": {
+		"down": "block/cartography_table_bottom",
+		"east": "block/cartography_table_side3",
+		"north": "block/cartography_table_side3",
+		"particle": "block/cartography_table_side3",
+		"south": "block/cartography_table_side1",
+		"up": "block/cartography_table_top",
+		"west": "block/cartography_table_side2"
+	}
 }
