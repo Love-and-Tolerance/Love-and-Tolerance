@@ -1,57 +1,73 @@
 {
-  "variants": {
-    "has_record=false": {
-      "model": "minecraft:block/jukebox_empty"
-    },
-    "has_record=true": [ {
-    "model": "minecraft:block/jukebox",
-    "weight": 1
-    }, {
-    "model": "minecraft:block/jukebox_5",
-    "weight": 2
-    }, {
-    "model": "minecraft:block/jukebox_11",
-    "weight": 2
-    }, {
-    "model": "minecraft:block/jukebox_13",
-    "weight": 2
-    }, {
-    "model": "minecraft:block/jukebox_blocks",
-    "weight": 2
-    }, {
-    "model": "minecraft:block/jukebox_cat",
-    "weight": 2
-    }, {
-    "model": "minecraft:block/jukebox_chirp",
-    "weight": 2
-    }, {
-    "model": "minecraft:block/jukebox_far",
-    "weight": 2
-    }, {
-    "model": "minecraft:block/jukebox_mall",
-    "weight": 2
-    }, {
-    "model": "minecraft:block/jukebox_mellohi",
-    "weight": 2
-    }, {
-    "model": "minecraft:block/jukebox_otherside",
-    "weight": 2
-    }, {
-    "model": "minecraft:block/jukebox_pigstep",
-    "weight": 2
-    }, {
-    "model": "minecraft:block/jukebox_stal",
-    "weight": 2
-    }, {
-    "model": "minecraft:block/jukebox_strad",
-    "weight": 2
-    }, {
-    "model": "minecraft:block/jukebox_wait",
-    "weight": 2
-    }, {
-    "model": "minecraft:block/jukebox_ward",
-    "weight": 2
-    }
-    ]
-  }
+	"variants": {
+		"has_record=false": {
+			"model": "minecraft:block/jukebox_empty"
+		},
+		"has_record=true": [
+			{
+				"model": "minecraft:block/jukebox",
+				"weight": 1
+			},
+			{
+				"model": "minecraft:block/jukebox_5",
+				"weight": 2
+			},
+			{
+				"model": "minecraft:block/jukebox_11",
+				"weight": 2
+			},
+			{
+				"model": "minecraft:block/jukebox_13",
+				"weight": 2
+			},
+			{
+				"model": "minecraft:block/jukebox_blocks",
+				"weight": 2
+			},
+			{
+				"model": "minecraft:block/jukebox_cat",
+				"weight": 2
+			},
+			{
+				"model": "minecraft:block/jukebox_chirp",
+				"weight": 2
+			},
+			{
+				"model": "minecraft:block/jukebox_far",
+				"weight": 2
+			},
+			{
+				"model": "minecraft:block/jukebox_mall",
+				"weight": 2
+			},
+			{
+				"model": "minecraft:block/jukebox_mellohi",
+				"weight": 2
+			},
+			{
+				"model": "minecraft:block/jukebox_otherside",
+				"weight": 2
+			},
+			{
+				"model": "minecraft:block/jukebox_pigstep",
+				"weight": 2
+			},
+			{
+				"model": "minecraft:block/jukebox_stal",
+				"weight": 2
+			},
+			{
+				"model": "minecraft:block/jukebox_strad",
+				"weight": 2
+			},
+			{
+				"model": "minecraft:block/jukebox_wait",
+				"weight": 2
+			},
+			{
+				"model": "minecraft:block/jukebox_ward",
+				"weight": 2
+			}
+		]
+	}
 }

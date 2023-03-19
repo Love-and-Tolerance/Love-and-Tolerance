@@ -1,12 +1,12 @@
 {
-  "parent": "minecraft:block/cube",
-  "textures": {
-    "particle": "minecraft:block/crafting_table_front",
-    "north": "minecraft:block/crafting_table_front_2",
-    "south": "minecraft:block/crafting_table_side_2",
-    "east": "minecraft:block/crafting_table_side",
-    "west": "minecraft:block/crafting_table_front",
-    "up": "minecraft:block/crafting_table_top",
-    "down": "minecraft:block/oak_planks"
-  }
+	"parent": "minecraft:block/cube",
+	"textures": {
+		"down": "minecraft:block/oak_planks",
+		"east": "minecraft:block/crafting_table_side",
+		"north": "minecraft:block/crafting_table_front_2",
+		"particle": "minecraft:block/crafting_table_front",
+		"south": "minecraft:block/crafting_table_side_2",
+		"up": "minecraft:block/crafting_table_top",
+		"west": "minecraft:block/crafting_table_front"
+	}
 }
