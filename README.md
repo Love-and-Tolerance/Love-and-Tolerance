@@ -8,7 +8,7 @@ L&T is a Minecraft resource pack inspired by the visual art style and design of 
 
 ### Java & Bedrock
 - Bright and colorful textures, just like the show, but not to dissimilar to the default textures, so your builds don't look completely different.
-- Moderate Pony references, such as: pony themed paintings, Ponk hiding inside a low percentage of barrels, Pony themed holiday add-ons and more.
+- Moderate pony references, such as: pony themed paintings, Ponk hiding inside a low percentage of barrels, pony themed holiday add-ons and more.
 - Has various add-ons allowing users to customize the pack to their liking.
 - Both [Java] and [Bedrock] (MCPE and Windows 10) editions are available.
 - Created on the Brohoof Forums, it was used on their map of [Equestria] so builders had a consistent experience building the map.
@@ -155,14 +155,14 @@ So, without further ado, we would like to thank:
 
 - **Arekuzu** for creating the pack and maintaining it from Beta 1.6.6 to Beta 1.7.3.
 - **BlackDutchie** for making the original moon.
-- **Orshcmann** for the paintings.
+- **Orshcmann** for making the paintings.
 - **Rederik** for filling out some of the paintings.
 - **Blackm3sh** for making the filly vectors used to make some of the paintings.
 - **Hazzat** for updating the pack and maintaining from Beta 1.8 to full release 1.7.4.
 - **Outa** for making the hunger bar.
-- **HeadPikachu** for the liquids and for making the cow, squid, wolf, and villager skins.
-- **PandaTork** for the main screen logo.
-- **Hawkseye21** for fancy MCPatcher features and general updates from 1.4 to 1.7.4.
+- **HeadPikachu** for making the liquids and, the cow, squid, wolf, and villager skins.
+- **PandaTork** for making the main screen logo.
+- **Hawkseye21** for making textures for MCPatcher and general updates from 1.4 to 1.7.4.
 - **Dan494** for making the Mine Little Pony skeleton skin for L&T.
 - **Lphemphill** for villager voices.
 - **CalistoVolan/Calistotash** for helping out.
@@ -171,8 +171,8 @@ So, without further ado, we would like to thank:
 - **Heliostorm** for updating the pack to 1.8, and 1.9.
 - **HellSteedTrotsky** for updating the Mine Little Pony villager skins format, and updating the pack to 1.9.4.
 - **Bronydog** for maintaining the pack from 1.10 to 1.12, and general texture updates to 1.17.
-- **SolisLink/ZeldaLinkAaron** for maintaining the pack from 1.11 to 1.14, and general model updates to to 1.19.
-- **VeryMadCrafter** for grass/dirt path & magma block textures.
+- **SolisLink/ZeldaLinkAaron** for maintaining the pack from 1.11 to 1.14, and general model updates to 1.19.
+- **VeryMadCrafter** for grass path, dirt path, and magma block textures.
 - **icrdr** for creating _Resource Pack Converter for Minecraft 1.13_, that was used to fix a few things, including maps.
 - **Vivian** for general maintenance and ctm fixes from 1.13 to 1.16.
 - **[Silk Rose][Silk Rose Github]** for updating the pack and maintaining it from 1.14 onwards.
@@ -236,7 +236,7 @@ The music for side B is located in an add-on, its repository can be found [here]
 
 ## Villager Skin Credits
 
-The skins in the [Villager Skin Pack] were made by the community for anyone to use, therefore we would like to give special thanks to the ponies who made skins for it:
+The skins in the [Villager Skin Pack] were made by the community for anyone to use, therefore we would like to give special thanks to the people who made skins for it:
 
 - **AlphaSpaceWombat**
 - **AlphaZero**
