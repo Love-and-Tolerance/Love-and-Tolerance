@@ -191,6 +191,8 @@ So, without further ado, we would like to thank:
 - **[Ashy]** for new splashes and fabric creative tab selector.
 - **Nebbie** for general textures, and help on the Nightmare Night addon.
 - **[Langtanium][Langtanium Github]** for converting the pack to bedrock and maintaining it.
+- **Blaster** for adding mod support for AppleSkin and EatingAnimations.
+- **octolingnexus** for writing the changelog for release 1.4.0.
 
 ## Music credits
 
