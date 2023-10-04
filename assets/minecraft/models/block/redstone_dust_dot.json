@@ -1,78 +1,78 @@
 {
 	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/redstone_dust_dot",
+		"line": "block/redstone_dust_dot",
+		"overlay": "block/redstone_dust_overlay"
+	},
 	"elements": [
 		{
-			"faces": {
-				"down": {
-					"texture": "#line",
-					"tintindex": 0,
-					"uv": [
-						0,
-						16,
-						16,
-						0
-					]
-				},
-				"up": {
-					"texture": "#line",
-					"tintindex": 0,
-					"uv": [
-						0,
-						0,
-						16,
-						16
-					]
-				}
-			},
 			"from": [
 				0,
 				0.26,
 				0
 			],
-			"shade": false,
 			"to": [
 				16,
 				0.26,
 				16
-			]
+			],
+			"shade": false,
+			"faces": {
+				"up": {
+					"uv": [
+						0,
+						0,
+						16,
+						16
+					],
+					"texture": "#line",
+					"tintindex": 0
+				},
+				"down": {
+					"uv": [
+						0,
+						16,
+						16,
+						0
+					],
+					"texture": "#line",
+					"tintindex": 0
+				}
+			}
 		},
 		{
-			"faces": {
-				"down": {
-					"texture": "#overlay",
-					"uv": [
-						0,
-						16,
-						16,
-						0
-					]
-				},
-				"up": {
-					"texture": "#overlay",
-					"uv": [
-						0,
-						0,
-						16,
-						16
-					]
-				}
-			},
 			"from": [
 				0,
 				0.26,
 				0
 			],
-			"shade": false,
 			"to": [
 				16,
 				0.26,
 				16
-			]
+			],
+			"shade": false,
+			"faces": {
+				"up": {
+					"uv": [
+						0,
+						0,
+						16,
+						16
+					],
+					"texture": "#overlay"
+				},
+				"down": {
+					"uv": [
+						0,
+						16,
+						16,
+						0
+					],
+					"texture": "#overlay"
+				}
+			}
 		}
-	],
-	"textures": {
-		"line": "block/redstone_dust_dot",
-		"overlay": "block/redstone_dust_overlay",
-		"particle": "block/redstone_dust_dot"
-	}
+	]
 }

@@ -1,54 +1,10 @@
 {
+	"textures": {
+		"particle": "block/bell_bottom",
+		"bar": "block/bell_bar_wall_ceilling"
+	},
 	"elements": [
 		{
-			"faces": {
-				"east": {
-					"texture": "#bar",
-					"uv": [
-						1,
-						2,
-						3,
-						5
-					]
-				},
-				"north": {
-					"texture": "#bar",
-					"uv": [
-						7,
-						2,
-						9,
-						5
-					]
-				},
-				"south": {
-					"texture": "#bar",
-					"uv": [
-						6,
-						2,
-						8,
-						5
-					]
-				},
-				"up": {
-					"cullface": "up",
-					"texture": "#bar",
-					"uv": [
-						1,
-						3,
-						3,
-						5
-					]
-				},
-				"west": {
-					"texture": "#bar",
-					"uv": [
-						4,
-						2,
-						6,
-						5
-					]
-				}
-			},
 			"from": [
 				7,
 				13,
@@ -58,11 +14,55 @@
 				9,
 				16,
 				9
-			]
+			],
+			"faces": {
+				"north": {
+					"uv": [
+						7,
+						2,
+						9,
+						5
+					],
+					"texture": "#bar"
+				},
+				"east": {
+					"uv": [
+						1,
+						2,
+						3,
+						5
+					],
+					"texture": "#bar"
+				},
+				"south": {
+					"uv": [
+						6,
+						2,
+						8,
+						5
+					],
+					"texture": "#bar"
+				},
+				"west": {
+					"uv": [
+						4,
+						2,
+						6,
+						5
+					],
+					"texture": "#bar"
+				},
+				"up": {
+					"uv": [
+						1,
+						3,
+						3,
+						5
+					],
+					"texture": "#bar",
+					"cullface": "up"
+				}
+			}
 		}
-	],
-	"textures": {
-		"bar": "block/bell_bar_wall_ceilling",
-		"particle": "block/bell_bottom"
-	}
+	]
 }
