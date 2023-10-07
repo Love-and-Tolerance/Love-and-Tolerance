@@ -1,18 +1,18 @@
 {
-	"language": {
-		"eq_eq-full": {
-			"bidirectional": false,
-			"name": "Modern Equish - Full",
-			"region": "Equestria"
-		},
-		"eq_eq-min": {
-			"bidirectional": false,
-			"name": "Modern Equish - Minimal",
-			"region": "Equestria"
-		}
-	},
 	"pack": {
-		"description": "§eMLP:FiM-inspired!\n§r§bLove-Tolerance.com",
-		"pack_format": 18
+		"pack_format": 18,
+		"description": "§eMLP:FiM-inspired!\n§r§bLove-Tolerance.com"
+	},
+	"language": {
+		"eq_eq-min": {
+			"name": "Modern Equish - Minimal",
+			"region": "Equestria",
+			"bidirectional": false
+		},
+		"eq_eq-full": {
+			"name": "Modern Equish - Full",
+			"region": "Equestria",
+			"bidirectional": false
+		}
 	}
 }
