@@ -1,54 +1,14 @@
 {
+	"parent": "block/block",
+	"textures": {
+		"pivot": "block/grindstone_pivot",
+		"round": "block/grindstone_round",
+		"side": "block/grindstone_side",
+		"particle": "block/grindstone_side",
+		"leg": "block/spruce_planks"
+	},
 	"elements": [
 		{
-			"faces": {
-				"down": {
-					"cullface": "down",
-					"texture": "#leg",
-					"uv": [
-						12,
-						6,
-						14,
-						10
-					]
-				},
-				"east": {
-					"texture": "#leg",
-					"uv": [
-						10,
-						16,
-						6,
-						9
-					]
-				},
-				"north": {
-					"texture": "#leg",
-					"uv": [
-						2,
-						9,
-						4,
-						16
-					]
-				},
-				"south": {
-					"texture": "#leg",
-					"uv": [
-						12,
-						9,
-						14,
-						16
-					]
-				},
-				"west": {
-					"texture": "#leg",
-					"uv": [
-						6,
-						9,
-						10,
-						16
-					]
-				}
-			},
 			"from": [
 				12,
 				0,
@@ -58,57 +18,57 @@
 				14,
 				7,
 				10
-			]
-		},
-		{
+			],
 			"faces": {
-				"down": {
-					"cullface": "down",
-					"texture": "#leg",
+				"north": {
 					"uv": [
 						2,
-						6,
+						9,
 						4,
-						10
-					]
+						16
+					],
+					"texture": "#leg"
 				},
 				"east": {
-					"texture": "#leg",
 					"uv": [
 						10,
 						16,
 						6,
 						9
-					]
+					],
+					"texture": "#leg"
 				},
-				"north": {
-					"texture": "#leg",
+				"south": {
 					"uv": [
 						12,
 						9,
 						14,
 						16
-					]
-				},
-				"south": {
-					"texture": "#leg",
-					"uv": [
-						2,
-						9,
-						4,
-						16
-					]
+					],
+					"texture": "#leg"
 				},
 				"west": {
-					"texture": "#leg",
 					"uv": [
 						6,
 						9,
 						10,
 						16
-					]
+					],
+					"texture": "#leg"
+				},
+				"down": {
+					"uv": [
+						12,
+						6,
+						14,
+						10
+					],
+					"texture": "#leg",
+					"cullface": "down"
 				}
-			},
+			}
+		},
+		{
 			"from": [
 				2,
 				0,
@@ -118,56 +78,57 @@
 				4,
 				7,
 				10
-			]
-		},
-		{
+			],
 			"faces": {
-				"down": {
-					"texture": "#pivot",
+				"north": {
 					"uv": [
-						8,
-						0,
-						10,
-						6
-					]
+						12,
+						9,
+						14,
+						16
+					],
+					"texture": "#leg"
 				},
 				"east": {
-					"texture": "#pivot",
 					"uv": [
-						0,
-						0,
+						10,
+						16,
 						6,
-						6
-					]
-				},
-				"north": {
-					"texture": "#pivot",
-					"uv": [
-						6,
-						0,
-						8,
-						6
-					]
+						9
+					],
+					"texture": "#leg"
 				},
 				"south": {
-					"texture": "#pivot",
+					"uv": [
+						2,
+						9,
+						4,
+						16
+					],
+					"texture": "#leg"
+				},
+				"west": {
 					"uv": [
 						6,
-						0,
-						8,
-						6
-					]
-				},
-				"up": {
-					"texture": "#pivot",
-					"uv": [
-						8,
-						0,
+						9,
 						10,
-						6
-					]
+						16
+					],
+					"texture": "#leg"
+				},
+				"down": {
+					"uv": [
+						2,
+						6,
+						4,
+						10
+					],
+					"texture": "#leg",
+					"cullface": "down"
 				}
-			},
+			}
+		},
+		{
 			"from": [
 				12,
 				7,
@@ -177,56 +138,56 @@
 				14,
 				13,
 				11
-			]
-		},
-		{
+			],
 			"faces": {
-				"down": {
-					"texture": "#pivot",
-					"uv": [
-						8,
-						0,
-						10,
-						6
-					]
-				},
 				"north": {
-					"texture": "#pivot",
 					"uv": [
 						6,
 						0,
 						8,
 						6
-					]
+					],
+					"texture": "#pivot"
+				},
+				"east": {
+					"uv": [
+						0,
+						0,
+						6,
+						6
+					],
+					"texture": "#pivot"
 				},
 				"south": {
-					"texture": "#pivot",
 					"uv": [
 						6,
 						0,
 						8,
 						6
-					]
+					],
+					"texture": "#pivot"
 				},
 				"up": {
-					"texture": "#pivot",
 					"uv": [
 						8,
 						0,
 						10,
 						6
-					]
+					],
+					"texture": "#pivot"
 				},
-				"west": {
-					"texture": "#pivot",
+				"down": {
 					"uv": [
+						8,
 						0,
-						0,
-						6,
+						10,
 						6
-					]
+					],
+					"texture": "#pivot"
 				}
-			},
+			}
+		},
+		{
 			"from": [
 				2,
 				7,
@@ -236,66 +197,56 @@
 				4,
 				13,
 				11
-			]
-		},
-		{
+			],
 			"faces": {
-				"down": {
-					"texture": "#round",
-					"uv": [
-						0,
-						0,
-						8,
-						12
-					]
-				},
-				"east": {
-					"texture": "#side",
-					"uv": [
-						0,
-						0,
-						12,
-						12
-					]
-				},
 				"north": {
-					"texture": "#round",
 					"uv": [
-						0,
+						6,
 						0,
 						8,
-						12
-					]
+						6
+					],
+					"texture": "#pivot"
 				},
 				"south": {
-					"texture": "#round",
 					"uv": [
-						0,
+						6,
 						0,
 						8,
-						12
-					]
-				},
-				"up": {
-					"cullface": "up",
-					"texture": "#round",
-					"uv": [
-						0,
-						0,
-						8,
-						12
-					]
+						6
+					],
+					"texture": "#pivot"
 				},
 				"west": {
-					"texture": "#side",
 					"uv": [
 						0,
 						0,
-						12,
-						12
-					]
+						6,
+						6
+					],
+					"texture": "#pivot"
+				},
+				"up": {
+					"uv": [
+						8,
+						0,
+						10,
+						6
+					],
+					"texture": "#pivot"
+				},
+				"down": {
+					"uv": [
+						8,
+						0,
+						10,
+						6
+					],
+					"texture": "#pivot"
 				}
-			},
+			}
+		},
+		{
 			"from": [
 				4,
 				4,
@@ -305,15 +256,64 @@
 				12,
 				16,
 				14
-			]
+			],
+			"faces": {
+				"north": {
+					"uv": [
+						0,
+						0,
+						8,
+						12
+					],
+					"texture": "#round"
+				},
+				"east": {
+					"uv": [
+						0,
+						0,
+						12,
+						12
+					],
+					"texture": "#side"
+				},
+				"south": {
+					"uv": [
+						0,
+						0,
+						8,
+						12
+					],
+					"texture": "#round"
+				},
+				"west": {
+					"uv": [
+						0,
+						0,
+						12,
+						12
+					],
+					"texture": "#side"
+				},
+				"up": {
+					"uv": [
+						0,
+						0,
+						8,
+						12
+					],
+					"texture": "#round",
+					"cullface": "up"
+				},
+				"down": {
+					"uv": [
+						0,
+						0,
+						8,
+						12
+					],
+					"texture": "#round"
+				}
+			}
 		}
-	],
-	"parent": "block/block",
-	"textures": {
-		"leg": "block/spruce_planks",
-		"particle": "block/grindstone_side",
-		"pivot": "block/grindstone_pivot",
-		"round": "block/grindstone_round",
-		"side": "block/grindstone_side"
-	}
+	]
 }
