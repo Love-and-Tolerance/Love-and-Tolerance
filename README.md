@@ -193,6 +193,7 @@ So, without further ado, we would like to thank:
 - **[Langtanium][Langtanium Github]** for converting the pack to bedrock and maintaining it.
 - **Blaster** for adding mod support for AppleSkin and EatingAnimations.
 - **octolingnexus** for writing the changelog for release 1.4.0.
+- **Cosmic Breeze** for adding mod support for Universal Ores.
 
 ## Music credits
 
