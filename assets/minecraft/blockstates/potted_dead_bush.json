@@ -1,0 +1,18 @@
+{
+	"variants": {
+		"": [
+			{
+				"model": "minecraft:block/potted_dead_bush"
+			},
+			{
+				"model": "minecraft:block/potted_dead_bush_2"
+			},
+			{
+				"model": "minecraft:block/potted_dead_bush_3"
+			},
+			{
+				"model": "minecraft:block/potted_dead_bush_4"
+			}
+		]
+	}
+}

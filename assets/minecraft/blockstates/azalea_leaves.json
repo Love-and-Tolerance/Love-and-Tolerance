@@ -1,0 +1,36 @@
+{
+	"variants": {
+		"": [
+			{
+				"model": "minecraft:block/azalea_leaves"
+			},
+			{
+				"model": "minecraft:block/azalea_leaves",
+				"y": 90
+			},
+			{
+				"model": "minecraft:block/azalea_leaves",
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/azalea_leaves",
+				"y": 270
+			},
+			{
+				"model": "minecraft:block/azalea_leaves_mirrored"
+			},
+			{
+				"model": "minecraft:block/azalea_leaves_mirrored",
+				"y": 90
+			},
+			{
+				"model": "minecraft:block/azalea_leaves_mirrored",
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/azalea_leaves_mirrored",
+				"y": 270
+			}
+		]
+	}
+}
