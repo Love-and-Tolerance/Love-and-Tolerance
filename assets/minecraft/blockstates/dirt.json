@@ -1,0 +1,96 @@
+{
+	"variants": {
+		"": [
+			{
+				"model": "minecraft:block/dirt"
+			},
+			{
+				"model": "minecraft:block/dirt",
+				"y": 90
+			},
+			{
+				"model": "minecraft:block/dirt",
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/dirt",
+				"y": 270
+			},
+			{
+				"model": "minecraft:block/dirt_2"
+			},
+			{
+				"model": "minecraft:block/dirt_2",
+				"y": 90
+			},
+			{
+				"model": "minecraft:block/dirt_2",
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/dirt_2",
+				"y": 270
+			},
+			{
+				"model": "minecraft:block/dirt_3"
+			},
+			{
+				"model": "minecraft:block/dirt_3",
+				"y": 90
+			},
+			{
+				"model": "minecraft:block/dirt_3",
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/dirt_3",
+				"y": 270
+			},
+			{
+				"model": "minecraft:block/dirt_4"
+			},
+			{
+				"model": "minecraft:block/dirt_4",
+				"y": 90
+			},
+			{
+				"model": "minecraft:block/dirt_4",
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/dirt_4",
+				"y": 270
+			},
+			{
+				"model": "minecraft:block/dirt_5"
+			},
+			{
+				"model": "minecraft:block/dirt_5",
+				"y": 90
+			},
+			{
+				"model": "minecraft:block/dirt_5",
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/dirt_5",
+				"y": 270
+			},
+			{
+				"model": "minecraft:block/dirt_6"
+			},
+			{
+				"model": "minecraft:block/dirt_6",
+				"y": 90
+			},
+			{
+				"model": "minecraft:block/dirt_6",
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/dirt_6",
+				"y": 270
+			}
+		]
+	}
+}

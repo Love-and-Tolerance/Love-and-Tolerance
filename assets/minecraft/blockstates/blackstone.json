@@ -1,0 +1,24 @@
+{
+	"variants": {
+		"": [
+			{
+				"model": "minecraft:block/blackstone"
+			},
+			{
+				"model": "minecraft:block/blackstone_2"
+			},
+			{
+				"model": "minecraft:block/blackstone_3"
+			},
+			{
+				"model": "minecraft:block/blackstone_4"
+			},
+			{
+				"model": "minecraft:block/blackstone_5"
+			},
+			{
+				"model": "minecraft:block/blackstone_6"
+			}
+		]
+	}
+}

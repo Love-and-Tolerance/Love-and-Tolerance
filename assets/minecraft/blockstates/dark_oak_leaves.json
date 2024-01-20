@@ -1,0 +1,36 @@
+{
+	"variants": {
+		"": [
+			{
+				"model": "minecraft:block/dark_oak_leaves"
+			},
+			{
+				"model": "minecraft:block/dark_oak_leaves",
+				"y": 90
+			},
+			{
+				"model": "minecraft:block/dark_oak_leaves",
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/dark_oak_leaves",
+				"y": 270
+			},
+			{
+				"model": "minecraft:block/dark_oak_leaves_mirrored"
+			},
+			{
+				"model": "minecraft:block/dark_oak_leaves_mirrored",
+				"y": 90
+			},
+			{
+				"model": "minecraft:block/dark_oak_leaves_mirrored",
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/dark_oak_leaves_mirrored",
+				"y": 270
+			}
+		]
+	}
+}
