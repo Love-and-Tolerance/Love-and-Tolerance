@@ -1,0 +1,18 @@
+{
+	"variants": {
+		"": [
+			{
+				"model": "minecraft:block/potted_brown_mushroom"
+			},
+			{
+				"model": "minecraft:block/potted_brown_mushroom_2"
+			},
+			{
+				"model": "minecraft:block/potted_brown_mushroom_3"
+			},
+			{
+				"model": "minecraft:block/potted_brown_mushroom_4"
+			}
+		]
+	}
+}

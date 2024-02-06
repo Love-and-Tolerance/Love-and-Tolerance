@@ -1,0 +1,24 @@
+{
+	"variants": {
+		"": [
+			{
+				"model": "minecraft:block/lapis_ore"
+			},
+			{
+				"model": "minecraft:block/lapis_ore_2"
+			},
+			{
+				"model": "minecraft:block/lapis_ore_3"
+			},
+			{
+				"model": "minecraft:block/lapis_ore_4"
+			},
+			{
+				"model": "minecraft:block/lapis_ore_5"
+			},
+			{
+				"model": "minecraft:block/lapis_ore_6"
+			}
+		]
+	}
+}

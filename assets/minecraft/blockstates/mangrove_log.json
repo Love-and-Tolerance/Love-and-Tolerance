@@ -1,0 +1,34 @@
+{
+	"variants": {
+		"axis=x": [
+			{
+				"model": "minecraft:block/mangrove_log_horizontal",
+				"x": 90,
+				"y": 90
+			},
+			{
+				"model": "minecraft:block/mangrove_log_horizontal_2",
+				"x": 90,
+				"y": 90
+			}
+		],
+		"axis=y": [
+			{
+				"model": "minecraft:block/mangrove_log"
+			},
+			{
+				"model": "minecraft:block/mangrove_log_2"
+			}
+		],
+		"axis=z": [
+			{
+				"model": "minecraft:block/mangrove_log_horizontal",
+				"x": 90
+			},
+			{
+				"model": "minecraft:block/mangrove_log_horizontal_2",
+				"x": 90
+			}
+		]
+	}
+}

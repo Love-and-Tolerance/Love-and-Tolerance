@@ -1,0 +1,24 @@
+{
+	"variants": {
+		"": [
+			{
+				"model": "minecraft:block/clay"
+			},
+			{
+				"model": "minecraft:block/clay_2"
+			},
+			{
+				"model": "minecraft:block/clay_3"
+			},
+			{
+				"model": "minecraft:block/clay_4"
+			},
+			{
+				"model": "minecraft:block/clay_5"
+			},
+			{
+				"model": "minecraft:block/clay_6"
+			}
+		]
+	}
+}

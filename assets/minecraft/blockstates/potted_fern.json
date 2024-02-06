@@ -1,0 +1,18 @@
+{
+	"variants": {
+		"": [
+			{
+				"model": "minecraft:block/potted_fern"
+			},
+			{
+				"model": "minecraft:block/potted_fern_2"
+			},
+			{
+				"model": "minecraft:block/potted_fern_3"
+			},
+			{
+				"model": "minecraft:block/potted_fern_4"
+			}
+		]
+	}
+}

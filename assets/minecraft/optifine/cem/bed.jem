@@ -1,0 +1,47 @@
+{
+	"models":
+	[
+		{
+			"model": "head.jpm",
+			"part": "head",
+			"attach": false,
+			"translate": [0, 0, 10],
+			"rotate": [90, 0, 180]
+		},
+		{
+			"model": "foot.jpm",
+			"part": "foot",
+			"attach": false,
+			"translate": [0, 0, 10],
+			"rotate": [90, 0, 180]
+		},
+		{
+			"model": "leg.jpm",
+			"part": "leg1",
+			"attach": false,
+			"translate": [0, 9, 0],
+			"rotate": [0, 90, 0]
+		},
+		{
+			"model": "leg.jpm",
+			"part": "leg2",
+			"attach": false,
+			"translate": [-16, 9, 0],
+			"rotate": [0, 90, 0]
+		},
+		{
+			"model": "leg.jpm",
+			"part": "leg3",
+			"attach": false,
+			"translate": [0, 9, -16],
+			"rotate": [0, 90, 0]
+		},
+		{
+			"model": "leg.jpm",
+			"part": "leg4",
+			"attach": false,
+			"translate": [-16, 9, -16],
+			"rotate": [0, 90, 0]
+		}
+	]
+}

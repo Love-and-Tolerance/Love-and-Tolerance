@@ -1,0 +1,18 @@
+{
+	"variants": {
+		"": [
+			{
+				"model": "minecraft:block/potted_dandelion"
+			},
+			{
+				"model": "minecraft:block/potted_dandelion_2"
+			},
+			{
+				"model": "minecraft:block/potted_dandelion_3"
+			},
+			{
+				"model": "minecraft:block/potted_dandelion_4"
+			}
+		]
+	}
+}

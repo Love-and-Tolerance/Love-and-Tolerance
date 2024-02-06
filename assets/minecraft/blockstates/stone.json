@@ -1,0 +1,90 @@
+{
+	"variants": {
+		"": [
+			{
+				"model": "minecraft:block/stone"
+			},
+			{
+				"model": "minecraft:block/stone_mirrored"
+			},
+			{
+				"model": "minecraft:block/stone",
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/stone_mirrored",
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/stone_2"
+			},
+			{
+				"model": "minecraft:block/stone_2_mirrored"
+			},
+			{
+				"model": "minecraft:block/stone_2",
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/stone_2_mirrored",
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/stone_3"
+			},
+			{
+				"model": "minecraft:block/stone_3_mirrored"
+			},
+			{
+				"model": "minecraft:block/stone_3",
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/stone_3_mirrored",
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/stone_4"
+			},
+			{
+				"model": "minecraft:block/stone_4_mirrored"
+			},
+			{
+				"model": "minecraft:block/stone_4",
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/stone_4_mirrored",
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/stone_5"
+			},
+			{
+				"model": "minecraft:block/stone_5_mirrored"
+			},
+			{
+				"model": "minecraft:block/stone_5",
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/stone_5_mirrored",
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/stone_6"
+			},
+			{
+				"model": "minecraft:block/stone_6_mirrored"
+			},
+			{
+				"model": "minecraft:block/stone_6",
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/stone_6_mirrored",
+				"y": 180
+			}
+		]
+	}
+}
