@@ -1,0 +1,24 @@
+{
+	"variants": {
+		"": [
+			{
+				"model": "minecraft:block/gravel"
+			},
+			{
+				"model": "minecraft:block/gravel_2"
+			},
+			{
+				"model": "minecraft:block/gravel_3"
+			},
+			{
+				"model": "minecraft:block/gravel_4"
+			},
+			{
+				"model": "minecraft:block/gravel_5"
+			},
+			{
+				"model": "minecraft:block/gravel_6"
+			}
+		]
+	}
+}

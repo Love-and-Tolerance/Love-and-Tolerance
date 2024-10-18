@@ -1,0 +1,116 @@
+{
+	"variants": {
+		"snowy=false": [
+			{
+				"model": "minecraft:block/mycelium"
+			},
+			{
+				"model": "minecraft:block/mycelium",
+				"y": 90
+			},
+			{
+				"model": "minecraft:block/mycelium",
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/mycelium",
+				"y": 270
+			},
+			{
+				"model": "minecraft:block/mycelium_2"
+			},
+			{
+				"model": "minecraft:block/mycelium_2",
+				"y": 90
+			},
+			{
+				"model": "minecraft:block/mycelium_2",
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/mycelium_2",
+				"y": 270
+			},
+			{
+				"model": "minecraft:block/mycelium_3"
+			},
+			{
+				"model": "minecraft:block/mycelium_3",
+				"y": 90
+			},
+			{
+				"model": "minecraft:block/mycelium_3",
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/mycelium_3",
+				"y": 270
+			},
+			{
+				"model": "minecraft:block/mycelium_4"
+			},
+			{
+				"model": "minecraft:block/mycelium_4",
+				"y": 90
+			},
+			{
+				"model": "minecraft:block/mycelium_4",
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/mycelium_4",
+				"y": 270
+			},
+			{
+				"model": "minecraft:block/mycelium_5"
+			},
+			{
+				"model": "minecraft:block/mycelium_5",
+				"y": 90
+			},
+			{
+				"model": "minecraft:block/mycelium_5",
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/mycelium_5",
+				"y": 270
+			},
+			{
+				"model": "minecraft:block/mycelium_6"
+			},
+			{
+				"model": "minecraft:block/mycelium_6",
+				"y": 90
+			},
+			{
+				"model": "minecraft:block/mycelium_6",
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/mycelium_6",
+				"y": 270
+			}
+		],
+		"snowy=true": [
+			{
+				"model": "minecraft:block/grass_block_snow"
+			},
+			{
+				"model": "minecraft:block/grass_block_snow_2"
+			},
+			{
+				"model": "minecraft:block/grass_block_snow_3"
+			},
+			{
+				"model": "minecraft:block/grass_block_snow_4"
+			},
+			{
+				"model": "minecraft:block/grass_block_snow_5"
+			},
+			{
+				"model": "minecraft:block/grass_block_snow_6"
+			}
+		]
+	}
+}

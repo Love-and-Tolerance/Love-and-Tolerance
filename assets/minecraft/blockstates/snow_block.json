@@ -1,0 +1,24 @@
+{
+	"variants": {
+		"": [
+			{
+				"model": "minecraft:block/snow_block"
+			},
+			{
+				"model": "minecraft:block/snow_block_2"
+			},
+			{
+				"model": "minecraft:block/snow_block_3"
+			},
+			{
+				"model": "minecraft:block/snow_block_4"
+			},
+			{
+				"model": "minecraft:block/snow_block_5"
+			},
+			{
+				"model": "minecraft:block/snow_block_6"
+			}
+		]
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"variants": {
+		"": [
+			{
+				"model": "minecraft:block/dandelion"
+			},
+			{
+				"model": "minecraft:block/dandelion_2"
+			},
+			{
+				"model": "minecraft:block/dandelion_3"
+			},
+			{
+				"model": "minecraft:block/dandelion_4"
+			}
+		]
+	}
+}

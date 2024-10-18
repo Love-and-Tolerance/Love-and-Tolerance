@@ -1,0 +1,24 @@
+{
+	"variants": {
+		"": [
+			{
+				"model": "block/netherrack"
+			},
+			{
+				"model": "block/netherrack_2"
+			},
+			{
+				"model": "block/netherrack_3"
+			},
+			{
+				"model": "block/netherrack_4"
+			},
+			{
+				"model": "block/netherrack_5"
+			},
+			{
+				"model": "block/netherrack_6"
+			}
+		]
+	}
+}

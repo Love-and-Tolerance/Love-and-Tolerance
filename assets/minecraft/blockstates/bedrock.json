@@ -1,0 +1,90 @@
+{
+	"variants": {
+		"": [
+			{
+				"model": "minecraft:block/bedrock"
+			},
+			{
+				"model": "minecraft:block/bedrock_mirrored"
+			},
+			{
+				"model": "minecraft:block/bedrock",
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/bedrock_mirrored",
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/bedrock_2"
+			},
+			{
+				"model": "minecraft:block/bedrock_2_mirrored"
+			},
+			{
+				"model": "minecraft:block/bedrock_2",
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/bedrock_2_mirrored",
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/bedrock_3"
+			},
+			{
+				"model": "minecraft:block/bedrock_3_mirrored"
+			},
+			{
+				"model": "minecraft:block/bedrock_3",
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/bedrock_3_mirrored",
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/bedrock_4"
+			},
+			{
+				"model": "minecraft:block/bedrock_4_mirrored"
+			},
+			{
+				"model": "minecraft:block/bedrock_4",
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/bedrock_4_mirrored",
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/bedrock_5"
+			},
+			{
+				"model": "minecraft:block/bedrock_5_mirrored"
+			},
+			{
+				"model": "minecraft:block/bedrock_5",
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/bedrock_5_mirrored",
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/bedrock_6"
+			},
+			{
+				"model": "minecraft:block/bedrock_6_mirrored"
+			},
+			{
+				"model": "minecraft:block/bedrock_6",
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/bedrock_6_mirrored",
+				"y": 180
+			}
+		]
+	}
+}
