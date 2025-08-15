@@ -1,10 +1,10 @@
 {
-  "animation": {
-    "frames": [
-      0,
-      1,
-      2,
-      3
-    ]
-  }
+	"animation": {
+		"frames": [
+			0,
+			1,
+			2,
+			3
+		]
+	}
 }
